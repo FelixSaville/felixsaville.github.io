@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Felix Saville
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+title: Systems Administrator
+email: savillefelix2@gmail.com
+website: https://fsadministrator.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
