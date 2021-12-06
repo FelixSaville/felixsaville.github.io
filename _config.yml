@@ -98,9 +98,13 @@ content:
         sub_title: IT Support
         caption: October 2019 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          We commit to being the best and safest production forest in the world, Mo ake tonu at
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Timberlands is a company that is passionate around it forest, and follows the key values of Care, Collaborate, and Grow. At the begining of my employment with Timberlands, I was learning around how to be an IT suppot person and how their systems work in the day-to-day job.
+
+            Before the laptop rollout, Timberlands operated on a private cloud structure called Citrix. The massive advantage to this system was the amount of control and support that it offered to the IT team and staff members. Since the start of my employment at Timberlands, they have now shifted towards a individual device structure, as this was the best way to fully utilize cloud services that microsoft provide.
+
+            I work hard to make sure that our Users are looked after and cared for on-site and externally. A large amount of projects and knowledge has come from working at Timberlands, and I really enjoy working with Wayne Pratt and Bryan Graham.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
