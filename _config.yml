@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   All of the above skills are a massive passion to me, and overall, the <mark>Best User Experience</mark> is my #1 goal with every role I take on, and I will always try my best to go above and beyond with all requests I take on!
 
-  Outside of my job life, I like to play computer games and spend a large amount of time maintaining a server hosting service called "Stipe". This allows me to learn a lot around Hardware resource management, along with gaining more experience with VCenter. Finally, I do like to go for a swim in the blue lake from time to time, do some research around the most up-to-date hardware in the world, and catch up with friends outside of my local town!
+  Outside of my job life, I like to play computer games and spend a large amount of time maintaining a server hosting service called "Stipe". This allows me to learn a lot around Hardware resource management, along with gaining more experience with VCenter.
 
 content:
   - title: Projects # Title for the section
@@ -93,7 +93,7 @@ content:
     content:
       - layout: left
         title: Timberlands Limited
-        link: tll.co.nz
+        link: https://tll.co.nz/
         # link_text: boringcompany.com
         sub_title: IT Support
         caption: October 2019 - Present
@@ -105,6 +105,21 @@ content:
             Before the laptop rollout, Timberlands operated on a private cloud structure called Citrix. The massive advantage to this system was the amount of control and support that it offered to the IT team and staff members. Since the start of my employment at Timberlands, they have now shifted towards a individual device structure, as this was the best way to fully utilize cloud services that microsoft provide.
 
             I work hard to make sure that our Users are looked after and cared for on-site and externally. A large amount of projects and knowledge has come from working at Timberlands, and I really enjoy working with Wayne Pratt and Bryan Graham.
+
+        - layout: left
+          title: Spark Rotorua
+          link: https://www.spark.co.nz/
+          # link_text: boringcompany.com
+          sub_title: Sales Consultant
+          caption: November 2018 - March 2019
+          quote: >
+            The best hands on experence is front-facing all types of customers, along with assisting NZ in the digital world!
+          description: | # this will include new lines to allow paragraphs
+              Spark is a company that leads the way in telecommunications, along with a large variety of other digital services. My role at spark was to provide devices and services to all types of customers across the country.
+
+              While working for Spark, I was tasked to meeting a large amount of daily sales targets on a massive range of devices and services to large business. The business is driven to exceed these targets by additionally providing great customer service!
+
+              I enjoyed a large amount of my work with Spark, and made sure that my clients have been well looked after. This role gave me strong customer support skills in the long run.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
