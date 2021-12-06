@@ -77,14 +77,14 @@ content:
           Unfortunately this project came to a standstill after November due to a concern around public-facing information.
 
         title: Asset Management System
-          link: tlams.tll.co.nz
+        link: tlams.tll.co.nz
           # link_text: Project Website
             # - title:  Github page for project (eg. sproogen/modern-resume-theme)
             #   icon: fab fa-github
             #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-          quote: >
+        quote: >
             I use this system almost every day to check on all devices we own! It's an amazing tool!
-          description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
             This project was something that I wanted to develop since I started at Timberlands, and became a project that lead me through May to July 2021.
 
             The asset management system that I decided to utilize is "SNIPE-IT", a free, open source, asset managemnt system targeted towards IT teams across the world!
