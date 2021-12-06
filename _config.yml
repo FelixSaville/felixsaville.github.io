@@ -149,7 +149,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: Contact Me Here For More Information About Me!
+references_title: Contact Me For More Information + Refrences!
 
 # Build settings
 remote_theme: sproogen/resume-theme
