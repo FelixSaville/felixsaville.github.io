@@ -76,7 +76,7 @@ content:
 
           Unfortunately this project came to a standstill after November due to a concern around public-facing information.
 
-      content:
+    content:
         - layout: top-middle
           title: Asset Management System
           link: tlams.tll.co.nz
