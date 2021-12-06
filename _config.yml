@@ -44,7 +44,7 @@ linkedin_username: felixsaville
 # about_title: About Me
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey there! My name is Felix and I am a System's Engineer at Timberlands Limited. I've worked as a Systems Enginner and IT Consultant for 5 years overall, and have a massive passion for the Digital / Technologies space.
+  Hey there! My name is Felix and I am a System's Engineer at Timberlands Limited. I've worked as a Systems Enginner and IT Consultant for 5 years overall, and have a massive passion for the Digital / Technology space.
 
   In the years of working as a Systems Engineer, I have developed a large number of skills around the following topics: <mark>Asset Management</mark> <mark>Device Management / Laptop Deployment</mark> <mark>Systems Monitoring + Reporting</mark> <mark>Scripting Languages (Python, Ruby, HTML+CSS+JAVA, etc.)</mark> and <mark>Cloud Migration + Management</mark>.
 
@@ -57,20 +57,24 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Timberlands Website Update
+        link: dev.tll.co.nz
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/TLL-IT/TLL-Website/tree/master/Website-Files
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This was one of my favorate projects, I hope it goes live someday!
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          This project started off as one of my KPI's within the business, and become a larger passion project between me and a college! This project was formed in March 2020 and reached a stand-still around November 2020.
+
+          The project utilized an Onsite Virtural Machine, and a web content management system called Drupal. We spent a large amount of time making sure that the GUI was user friendly, for both visitors and editors.
+
+          Unfortunately this project came to a standstill after November due to a concern around public-facing information.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
