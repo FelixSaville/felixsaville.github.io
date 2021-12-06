@@ -60,10 +60,6 @@ content:
         title: Timberlands Website Update
         link: dev.tll.co.nz
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: https://github.com/TLL-IT/TLL-Website/tree/master/Website-Files
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
