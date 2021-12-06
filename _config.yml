@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   Outside of my job life, I like to play computer games and spend a large amount of time maintaining a server hosting service called "Stipe". This allows me to learn a lot around Hardware resource management, along with gaining more experience with VCenter. Finally, I do like to go for a swim in the blue lake from time to time, do some research around the most up to date hardware in the world, and catch up with friends outside of my local town!
 
 content:
-  - title: Project 1 # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
