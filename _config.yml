@@ -64,13 +64,13 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This was one of my favorate projects, I hope it goes live someday!
+          This was one of my favorite projects, I hope it goes live someday!
         description: | # this will include new lines to allow paragraphs
           This project started off as one of my KPI's within the business, and become a larger passion project between me and a college! This project was formed in March 2020 and reached a stand-still around November 2020.
 
-          The project utilized an Onsite Virtural Machine, and a web content management system called Drupal. We spent a large amount of time making sure that the GUI was user friendly, for both visitors and editors.
+          The project utilized an On-site Virtural Machine, and a web content management system called Drupal. We spent a large amount of time making sure that the GUI was user friendly, for both visitors and editors.
 
-          Unfortunately this project came to a standstill after November due to a concern around public-facing information.
+          Unfortunately, this project came to a standstill after November due to a concern around public-facing information.
 
       - layout: top-middle
         title: Asset Management System
@@ -84,9 +84,9 @@ content:
         description: | # this will include new lines to allow paragraphs
             This project was something that I wanted to develop since I started at Timberlands, and became a project that lead me through May to July 2021.
 
-            The asset management system that I decided to utilize is "SNIPE-IT", a free, open source, asset managemnt system targeted towards IT teams across the world!
+            The asset management system that I decided to utilize is "SNIPE-IT", a free, open source, asset management system targeted towards IT teams across the world!
 
-            This project has allowed for me to learn more about PHP, JAVA and CSS, and a API called "REST". This project has lead the Timberlands IT team to save a lot of time and money, and this system will help the company in the long run.
+            This project has allowed for me to learn more about PHP, JAVA and CSS, and an API called "REST". This project has led the Timberlands IT team to save a lot of time and money, and this system will help the company in the long run.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -100,9 +100,9 @@ content:
           quote: >
             "We commit to being the best and safest production forest in the world, Mo ake tonu at"
           description: | # this will include new lines to allow paragraphs
-              Timberlands is a company that is passionate around it forest, and follows the key values of Care, Collaborate, and Grow. At the begining of my employment with Timberlands, I was learning around how to be an IT suppot person and how their systems work in the day-to-day job.
+              Timberlands is a company that is passionate around it forest, and follows the key values of Care, Collaborate, and Grow. At the beginning of my employment with Timberlands, I was learning around how to be an IT support person and how their systems work in the day-to-day job.
 
-              Before the laptop rollout, Timberlands operated on a private cloud structure called Citrix. The massive advantage to this system was the amount of control and support that it offered to the IT team and staff members. Since the start of my employment at Timberlands, they have now shifted towards a individual device structure, as this was the best way to fully utilize cloud services that microsoft provide.
+              Before the laptop rollout, Timberlands operated on a private cloud structure called Citrix. The massive advantage of this system was the amount of control and support that it offered to the IT team and staff members. Since the start of my employment at Timberlands, they have now shifted towards an individual device structure, as this was the best way to fully utilize cloud services that Microsoft provide.
 
               I work hard to make sure that our Users are looked after and cared for on-site and externally. A large amount of projects and knowledge has come from working at Timberlands, and I really enjoy working with Wayne Pratt and Bryan Graham.
 
@@ -113,11 +113,11 @@ content:
           sub_title: Sales Consultant
           caption: November 2018 - March 2019
           quote: >
-            The best hands on experence is front-facing all types of customers, along with assisting NZ in the digital world!
+            The best hands on experience is front-facing all types of customers, along with assisting NZ in the digital world!
           description: | # this will include new lines to allow paragraphs
               Spark is a company that leads the way in telecommunications, along with a large variety of other digital services. My role at spark was to provide devices and services to all types of customers across the country.
 
-              While working for Spark, I was tasked to meeting a large amount of daily sales targets on a massive range of devices and services to large business. The business is driven to exceed these targets by additionally providing great customer service!
+              While working for Spark, I was tasked with meeting a large amount of daily sales targets on a massive range of devices and services to large business. The business is driven to exceed these targets by additionally providing great customer service!
 
               I enjoyed a large amount of my work with Spark, and made sure that my clients have been well looked after. This role gave me strong customer support skills in the long run.
 
@@ -129,11 +129,11 @@ content:
         caption: February 2016 - November 2018
         sub_title: Diploma in Systems Administration (Level 6)
         quote: >
-          EmployNZ helped me learn alot around System Deployment and Management, and I couldn't of done IT without their Hands-On Teaching!
+          EmployNZ helped me learn a lot around System Deployment and Management, and I couldn't of done IT without their Hands-On Teaching!
         description: | # this will include new lines to allow paragraphs
-          During my time at EmployNZ I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time at EmployNZ and learnt a lot about different Types of Operating Systems, platforms, and programing Languages.
+          During my time at EmployNZ I learnt most of my key skills that have I taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at EmployNZ and learnt a lot about different Types of Operating Systems, platforms, and programing Languages.
 
-          During my studies, I learned a lot around many different topics in the IT space, including <mark>Docker</mark> <mark>ASCII</mark> <mark>HyperV</mark> <mark>Domain Services</mark> <mark>Windows</mark> <mark>Networking</mark> and many other topics that help me in my role today!
+          During my studies, I learned a lot around many different topics in the IT space, including <mark>Docker</mark> <mark>ASCII</mark> <mark>HyperV</mark> <mark>Domain Administration</mark> <mark>Windows</mark> <mark>Networking</mark> and many other topics that help me in my role today!
 
   - title: A Little More About Me
     layout: text
@@ -145,6 +145,7 @@ content:
       - Swimming
       - [Streaming On Twitch!](https://www.twitch.tv/sir_dracxi)
       - Crypto Investing
+      - [Server Hosting](https://stipe.com.au/)
 
 # Footer
 footer_show_references: true
