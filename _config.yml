@@ -1,5 +1,5 @@
 # Site
-# repository: FSAdministrator/FSAdministrator.github.io
+repository: FSAdministrator/FSAdministrator.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -19,7 +19,7 @@ darkmode: true
 github_username:  FSAdministrator
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
- facebook_username: FelixSaville
+facebook_username: FelixSaville
 # flickr_username: jekyll
 instagram_username: felix_saville
 linkedin_username: felixsaville
