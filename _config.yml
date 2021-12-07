@@ -72,13 +72,13 @@ content:
 
       - layout: top-middle
         title: Asset Management System
-        link: tlams.tll.co.nz
+        # link: tlams.tll.co.nz
           # link_text: Project Website
             # - title:  Github page for project (eg. sproogen/modern-resume-theme)
             #   icon: fab fa-github
             #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-            I use this system almost every day to check on all managed devices within Timberlands! It's an amazing tool!
+            May 2021 - July 2021
         description: | # this will include new lines to allow paragraphs
             This project was something that I wanted to develop since I started at Timberlands, and became a major project through May to July 2021.
 
