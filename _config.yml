@@ -113,13 +113,13 @@ content:
           sub_title: Sales Consultant
           caption: November 2018 - March 2019
           quote: >
-            The best hands on experience is front-facing all types of customers, along with assisting NZ in the digital world!
+            The best hands on experience is front-facing all types of customers, along with assisting NZ in the digital world.
           description: | # this will include new lines to allow paragraphs
-              Spark is a company that leads the way in telecommunications, along with a large variety of other digital services. My role at spark was to provide devices and services to all types of customers across the country.
+              Spark is a company that leads the way in telecommunications, along with a large variety of other digital services. My role at Spark was to provide detials on devices and digital services a large range of customers across the country.
 
-              While working for Spark, I was tasked with meeting a large amount of daily sales targets on a massive range of devices and services to large business. The business is driven to exceed these targets by additionally providing great customer service!
+              While working for Spark, I was tasked with meeting a large amount of daily wholesale targets including selling 60 devices within a week. I also provided IT consultation sessions for larger customers, and understood the best options avaliable to clients along with focusing on their key needs.
 
-              I enjoyed a large amount of my work with Spark, and made sure that my clients have been well looked after. This role gave me strong customer support skills in the long run.
+              I enjoyed a large amount of my work with Spark, and made sure that my clients have been well looked after. This role gave me strong customer support skills in the long run, and enabled me to become a people person.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -129,11 +129,11 @@ content:
         caption: February 2016 - November 2018
         sub_title: Diploma in Systems Administration (Level 6)
         quote: >
-          EmployNZ helped me learn a lot around System Deployment and Management, and I couldn't of done IT without their Hands-On Teaching!
+          EmployNZ helped me learn a lot around System Deployment and Management, and I couldn't of done IT without their Hands-On Teaching.
         description: | # this will include new lines to allow paragraphs
           During my time at EmployNZ I learnt most of my key skills that have I taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at EmployNZ and learnt a lot about different Types of Operating Systems, platforms, and programing Languages.
 
-          During my studies, I learned a lot around many different topics in the IT space, including <mark>Docker</mark> <mark>ASCII</mark> <mark>HyperV</mark> <mark>Domain Administration</mark> <mark>Windows</mark> <mark>Networking</mark> and many other topics that help me in my role today!
+          During my studies, I learned a lot around many different topics in the IT space, including <mark>Docker</mark> <mark>ASCII</mark> <mark>HyperV</mark> <mark>Domain Administration</mark> <mark>Windows</mark> <mark>Networking</mark> and many other topics that help me in my role today.
 
   - title: A Little More About Me
     layout: text
