@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Timberlands Website Update
+        title: Timberlands Website Rebuild
         link: dev.tll.co.nz
         # link_text: Project Website
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
