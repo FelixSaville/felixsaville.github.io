@@ -66,11 +66,9 @@ content:
          quote: >
            March 2020 - November 2020
         description: | # this will include new lines to allow paragraphs
-          This project started off as one of my KPI's within Timberlands, and become a larger passion project between me and a college!
+          This project started off as one of my KPI's within Timberlands, and become a larger passion project between me and a college! The website was brought in house to save cost and to ****
 
           The project utilised an On-Site Virtual Machine, and a web content management system called Drupal. We spent a large amount of time making sure that the GUI was user friendly, for both visitors and editors.
-
-          Unfortunately, this project came to a standstill after November due to a concern around public-facing information.
 
       - layout: top-middle
         title: Asset Management System
