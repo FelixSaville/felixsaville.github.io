@@ -82,9 +82,9 @@ content:
         description: | # this will include new lines to allow paragraphs
             It became apparent that Timberlands could strongly benefit with an asset management system. I decided to champion this project and gained the support of my manager using a cost-benefit Analysis.
 
-            I choose [SNIPE-IT](https://snipeitapp.com/) as a free, open source system targeted towards IT Teams. ***
+            I choose [SNIPE-IT](https://snipeitapp.com/) as a free, open source system targeted towards IT Teams.
 
-            This project enabled me to learn more about PHP, JAVA and CSS, and an API called "REST". This project has led the Timberlands IT team to save a lot of time and money, and this system will help the company in the long run.
+            This project enabled me to gain knowledge about PHP, JAVA and CSS, and an API called "REST". This project has led the Timberlands IT team to be more effective in storing assets digitally, and will assist furture IT support in the long run.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
