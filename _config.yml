@@ -68,7 +68,7 @@ content:
       - layout: top-middle
         title: Asset Management System
         quote: >
-            May 2021 - July 2021
+          May 2021 - July 2021
         description: | # this will include new lines to allow paragraphs
             It became apparent that Timberlands could strongly benefit with an asset management system. I decided to champion this project and gained the support of my manager using a cost-benefit Analysis.
 
@@ -79,7 +79,7 @@ content:
       - layout: top-middle
         title: Laptop Rollout
         quote: >
-            July 2021 - December 2021
+          July 2021 - December 2021
         description: | # this will include new lines to allow paragraphs
             As users began to utilize the benefits of working from home, using video calling for most meetings, and using more of our cloud services, the IT team needed me to complete rollout of laptop devices across the company.
 
