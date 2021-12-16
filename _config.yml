@@ -58,11 +58,6 @@ content:
     content:
       - layout: top-middle
         title: Timberlands Website Rebuild
-        # link: dev.tll.co.nz
-        # link_text: Project Website
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
          quote: >
            March 2020 - November 2020
         description: | # this will include new lines to allow paragraphs
@@ -72,11 +67,6 @@ content:
 
       - layout: top-middle
         title: Asset Management System
-        # link: tlams.tll.co.nz
-          # link_text: Project Website
-            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            #   icon: fab fa-github
-            #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
             May 2021 - July 2021
         description: | # this will include new lines to allow paragraphs
@@ -88,11 +78,6 @@ content:
 
       - layout: top-middle
         title: Laptop Rollout
-        # link: tlams.tll.co.nz
-          # link_text: Project Website
-            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            #   icon: fab fa-github
-            #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
             July 2021 - December 2021
         description: | # this will include new lines to allow paragraphs
