@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Timberlands Website Rebuild
-         quote: >
+        quote: >
            March 2020 - November 2020
         description: | # this will include new lines to allow paragraphs
           This project started off as one of my KPI's within Timberlands, and become a larger passion project between me and a college! The website was brought in house to save cost and to allow for self management when required
