@@ -66,7 +66,7 @@ content:
          quote: >
            March 2020 - November 2020
         description: | # this will include new lines to allow paragraphs
-          This project started off as one of my KPI's within Timberlands, and become a larger passion project between me and a college! The website was brought in house to save cost and to ****
+          This project started off as one of my KPI's within Timberlands, and become a larger passion project between me and a college! The website was brought in house to save cost and to allow for self management when required
 
           The project utilised an On-Site Virtual Machine, and a web content management system called Drupal. We spent a large amount of time making sure that the GUI was user friendly, for both visitors and editors.
 
@@ -85,6 +85,25 @@ content:
             I choose [SNIPE-IT](https://snipeitapp.com/) as a free, open source system targeted towards IT Teams.
 
             This project enabled me to gain knowledge about PHP, JAVA and CSS, and an API called "REST". This project has led the Timberlands IT team to be more effective in storing assets digitally, and will assist furture IT support in the long run.
+
+      - layout: top-middle
+        title: Laptop Rollout
+        # link: tlams.tll.co.nz
+          # link_text: Project Website
+            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #   icon: fab fa-github
+            #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+            July 2021 - December 2021
+        description: | # this will include new lines to allow paragraphs
+            As users began to utilize the benefits of working from home, using video calling for most meetings, and using more of our cloud services, the IT team needed me to complete rollout of laptop devices across the company.
+
+            It became apparent that Timberlands could strongly benefit with an asset management system. I decided to champion this project and gained the support of my manager using a cost-benefit Analysis.
+
+            I choose [SNIPE-IT](https://snipeitapp.com/) as a free, open source system targeted towards IT Teams.
+
+            This project enabled me to gain knowledge about PHP, JAVA and CSS, and an API called "REST". This project has led the Timberlands IT team to be more effective in storing assets digitally, and will assist furture IT support in the long run.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -141,9 +160,8 @@ content:
       Alongside my interests in Networking and Systems Administrator some of my other interests and hobbies are:
       - Rock climbing
       - [Gaming On PC!](https://steamcommunity.com/id/Felix232s)
-      - [Best Netflix Series!](https://www.netflix.com/nz/title/70195800)
+      - [The Netflix Series - Suits](https://www.netflix.com/nz/title/70195800)
       - Swimming
-      - [Streaming On Twitch!](https://www.twitch.tv/sir_dracxi)
       - Crypto Investing
       - [Server Hosting](https://stipe.com.au/)
 
