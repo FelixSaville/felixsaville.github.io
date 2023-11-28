@@ -43,17 +43,52 @@ linkedin_username: felixsaville
 # About Section
 # about_title: About Me
 # about_profile_image: images/profile1.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hey there! My name is Felix and I am a IT Support member at Timberlands Limited. I have a massive passion for the Digital / Technology space.
 
-  In the years of working in IT Support, I have developed a large number of skills around the following topics: <mark>Asset Management</mark> <mark>Device Management / Laptop Deployment</mark> <mark>Systems Monitoring + Reporting</mark> <mark>Scripting Languages (Python, Ruby, HTML+CSS+JAVA)</mark> and <mark>Cloud Migration + Management</mark>.
+about_content: |
+about_content: |
+  Hey there! I'm Felix, a Systems Engineer at MB3, where we specialize in providing top-notch IT solutions. My role involves designing and implementing complex IT infrastructures that are essential for seamless operations in today's fast-paced business environment. 
 
-  I am passionate about the skills I have gained, and place the <mark>Best User Experience</mark> as my main focus point every role I take on, and I will always try my best to go above and beyond with all requests!
+  At MB3, my expertise in deploying cloud solutions and automations comes into play, allowing me to empower our clients with the most effective technology strategies. My skills include designing hybrid systems with Citrix "In App" virtualization, providing comprehensive desktop support across various operating systems, and developing data retention strategies for diverse environments. 
 
-  Outside of work, I like to play computer games and spend a large amount of time maintaining a hosting service called "Stipe". This allows me to learn a lot around Hardware resource management, along with gaining more experience with VCenter.
+  With a strong proficiency in tools like VMWare, Zerto, Office, and Azure Active Directory, I adeptly manage client needs, ensuring the delivery of reliable and high-quality IT services. My commitment to the best user experience drives me to consistently go above and beyond in every project.
+
+  My passion for technology extends beyond work. I enjoy exploring the latest trends in IT and am always keen on finding new ways to enhance system efficiency and reliability. Being part of MB3's dynamic team allows me to stay at the forefront of technological advancements, ensuring that our clients receive the best possible solutions.
 
 content:
-  - title: Projects # Title for the section
+
+  - title: Key Projects at MB3
+    layout: list
+    content:
+      - layout: top-middle
+        title: Virtual Environment Deployment (Internal)
+        quote: January 2023 - March 2023
+        description: |
+          Designed and deployed a dual-server virtual environment using "Proxmox". This initiative allowed the MB3 team to experiment and test new ideas within a controlled space, fostering learning and enabling application deployment as needed.
+
+      - layout: top-middle
+        title: Knowledge Database (Internal)
+        quote: June 2023 - July 2023
+        description: |
+          Led the transition to a centralized knowledge system by implementing "BookStack", an open-source solution. This enhanced our ability to index, tag, and access knowledge resources efficiently.
+
+      - layout: top-middle
+        title: Password Database
+        quote: October 2022 - November 2022
+        description: |
+          Played a key role in upgrading MB3's password storage and security strategy. Implemented "Bitwarden", providing a secure and robust solution for managing business-sensitive passwords.
+
+      - layout: top-middle
+        title: Cloud Communications Upgrade
+        quote: October 2022 - November 2022
+        description: |
+          Replaced MB3's outdated Slack communication system with "Sassboss Webex", integrating VOIP and messaging to meet our evolving business needs and reduce costs.
+
+      - layout: top-middle
+        title: User Automation
+        quote: September 2022 - December 2022
+        description: |
+          Co-developed "mb3Connect" with Jesse Evans, an automation tool for schools to manage student accounts across platforms like Google Workspace, Microsoft 365, and Apple School Manager. This Powershell-based solution simplifies the process of creating, editing, and deleting student accounts.
+ # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -87,7 +122,24 @@ content:
 
             This rollout took place in one of the toughest times for the team, as chip shortages, delays and COVID difficulties all added to the pressure of the rollout, making this project one of the most gratifying and rewarding achievements I've made while working at Timberlands.
 
-  - title: Experience # Title for the section
+
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Timberlands Limited
+        sub_title: IT Support
+        caption: October 2019 - March 2022
+        description: |
+          [Your previous role description at Timberlands Limited]
+
+      - layout: left
+        title: MB3
+        sub_title: Systems Engineer
+        caption: March 2022 - Present
+        description: |
+          As a Systems Engineer at MB3 since March 2022, I specialize in crafting and fine-tuning complex infrastructures, focusing on deploying cloud solutions and sophisticated automations. My role involves diverse challenges across cloud platforms, virtualization, networking, and coding, ensuring optimal operation and client satisfaction. I thrive in dynamic environments and am committed to empowering clients with robust, scalable, and secure systems.
+ # Title for the section
     layout: list # Type of content section (list/text)
     content:
         - layout: left
