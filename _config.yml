@@ -44,13 +44,15 @@ linkedin_username: felixsaville
 # about_title: About Me
 # about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey there! My name is Felix and I am a IT Support member at Timberlands Limited. I have a massive passion for the Digital / Technology space.
+  Hello there! I'm Felix, a Systems Engineer at mb3, bringing over 5 years of experience to the ever-evolving world of Information Technology.
 
-  In the years of working in IT Support, I have developed a large number of skills around the following topics: <mark>Asset Management</mark> <mark>Device Management / Laptop Deployment</mark> <mark>Systems Monitoring + Reporting</mark> <mark>Scripting Languages (Python, Ruby, HTML+CSS+JAVA)</mark> and <mark>Cloud Migration + Management</mark>.
+  My journey through IT has equipped me with technical knowledge across several key areas. My experience spans <mark>Automation Development (PowerShell, Rust API, Python)</mark>, <mark>Website Design (PHP, JavaScript, HTML + CSS)</mark>, <mark>Infrastructure Management (On-Site, Azure, Google, Hybrid)</mark>, and <mark>Device Deployment (JAMF, Intune)</mark>.
 
-  I am passionate about the skills I have gained, and place the <mark>Best User Experience</mark> as my main focus point every role I take on, and I will always try my best to go above and beyond with all requests!
+  These technical skills have also allowed me to develop <mark>client management skills</mark>, <mark>professional communication</mark>, <mark>simplifying complex system problems</mark>, and <mark>maintaining good relationships</mark> with clients and colleagues.
 
-  Outside of work, I like to play computer games and spend a large amount of time maintaining a hosting service called "Stipe". This allows me to learn a lot around Hardware resource management, along with gaining more experience with VCenter.
+  Beyond my career, I'm committed to a balanced lifestyle. Hitting the gym, enjoying pickleball, playing Magic: The Gathering at card shops, or diving into video games are activities that are good for my well-being and social battery!
+
+  Finally, my passion for technology doesn't stop at 5 pm; I'm always on the lookout for the latest technology trends, as it's a personal interest that keeps me engaged. My dedication to both my career and personal growth is what fuels my continuous advancement in the world of IT.
 
 content:
   - title: Projects # Title for the section
