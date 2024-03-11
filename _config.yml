@@ -53,7 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
   Beyond my career, I'm committed to a balanced lifestyle. Hitting the gym, enjoying pickleball, playing Magic: The Gathering at card shops, or diving into video games are activities that are good for my well-being and social battery!
 
   Finally, my passion for technology doesn't stop at 5 pm; I'm always on the lookout for the latest technology trends, as it's a personal interest that keeps me engaged. My dedication to both my career and personal growth is what fuels my continuous advancement in the world of IT.
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
