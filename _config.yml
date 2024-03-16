@@ -86,12 +86,12 @@ content:
         caption: October 2019 - March 2022
         quote: "We commit to being the best and safest production forest in the world, Mo ake tonu atu."
         description: |
-            Initially joining Timberlands as an IT Support Specialist, I rapidly acclimated to the organization's IT infrastructure, focusing on optimizing day-to-day operations. Key accomplishments include:
+            Originally joined Timberlands as an IT Support Specialist, I rapidly learned the organization's IT infrastructure, focusing on optimizing day-to-day operations. Key accomplishments include:
             
-            - Mastering the intricacies of Citrix, a private cloud structure, enhancing control and support for the IT team and staff.
-            - Facilitating the transition to an individual device structure to leverage Microsoft's cloud services more effectively, demonstrating adaptability and forward-thinking in IT strategy.
-            - Delivering exceptional support to users, both onsite and remotely, ensuring operational efficiency and user satisfaction.
-            - Contributing significantly to various projects, gaining valuable experience and knowledge, and fostering strong working relationships with colleagues, notably Wayne Pratt and Bryan Graham.
+            - Mastering the complex platform Citrix, a private cloud structure, enhancing control and support for the IT team and staff.
+            - Supporting the ransition to an individual device structure to leverage Microsoft's cloud services more effectively, showing my addaptive skills and forward-thinking in IT strategy.
+            - Providing exceptional support to users, both onsite and remotely, while maintaining efficiency and user satisfaction.
+            - Contributing to various projects, gaining strong experience and knowledge in the IT field, and forming strong working relationships with colleagues and management.
 
       - layout: left
         title: Spark Rotorua
@@ -100,12 +100,12 @@ content:
         caption: November 2018 - March 2019
         quote: "The best hands-on experience is front-facing all types of customers, assisting NZ in the digital world."
         description: |
-            At Spark, a leader in telecommunications and digital services, I excelled as a Sales Consultant, where my responsibilities and achievements included:
+            At Spark, a leader in telecommunications and digital services, I provided support to customers as a Sales Consultant, where my responsibilities / achievements included:
             
-            - Providing detailed consultations on devices and digital services to a diverse clientele across New Zealand, enhancing customer engagement and satisfaction.
-            - Exceeding sales targets by selling 60 devices within a single week, showcasing my ability to drive sales and meet ambitious goals.
-            - Conducting IT consultation sessions for key clients, identifying optimal solutions tailored to their unique needs, demonstrating strong analytical and problem-solving skills.
-            - Cultivating excellent customer service skills, significantly improving client relations and support, and developing a people-centric approach to sales and IT consultation.
+            - Providing detailed consults on devices and digital services to a larnge number of customers across NZ, finding effective and accurate solutions while providing excelent customer support.
+            - Greatly exceeding sales targets by selling 60 solutions within a single month, showing my abilities to drive sales and meet key goals.
+            - Providing IT consultation sessions for key clients, identifying solutions tailored to their unique needs, and demonstrating strong problem-solving skills.
+            - Showcasing excellent customer service skills, improving client relations and support, and developing a people-centric approach to sales and IT consultation.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -121,16 +121,21 @@ content:
 
           During my studies, I learned a lot around many different topics in the IT space, including <mark>Docker</mark> <mark>ASCII</mark> <mark>HyperV</mark> <mark>Domain Administration</mark> <mark>Windows</mark> <mark>Networking</mark> and many other topics that help me in my role today.
 
-  - title: A Little More About Me
+  - title: References
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in Networking and Systems Administrator some of my other interests and hobbies are:
-      - Rock climbing
-      - [Gaming On PC!](https://steamcommunity.com/id/Felix232s)
-      - [The Netflix Series - Suits](https://www.netflix.com/nz/title/70195800)
-      - Swimming
-      - Crypto Investing
-      - [Server Hosting](https://stipe.com.au/)
+    content: |
+      Below are references from my previous positions and educational background. For further details or contact information, please do not hesitate to reach out.
+
+      - Jesse Evans | Mentor/Colleague | Mobile: 021 023 98892
+
+      - Don Hammond | Personal Client, Previous Employer | Mobile: 027 488 5940 | Email: [don@hrml.co.nz](mailto:don@hrml.co.nz)
+
+      - Alesha Morris | Current Manager (Available Upon Request)
+
+      - Richard McCurran | Education Tutor, EmployNZ | Mobile: 022 191 5987 | Email: [richard@employnz.co.nz](mailto:richard@employnz.co.nz)
+
+      - Bryan Graham | Previous Manager, Timberlands | Mobile: 027 466 4963 | Email: [bryan.graham@seeka.co.nz](mailto:bryan.graham@seeka.co.nz)
+
 
 # Footer
 footer_show_references: true
