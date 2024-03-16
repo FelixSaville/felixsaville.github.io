@@ -75,17 +75,6 @@ content:
         description: |
           Led a comprehensive laptop rollout to support Timberlands' transition to remote work, amidst challenges such as chip shortages and pandemic-related delays. Managed all aspects of the rollout, including procurement, cybersecurity training, deployment, and helpdesk support. This project underscored my ability to execute complex IT initiatives under pressure, ensuring business continuity and enhancing remote work capabilities.
 
-      - layout: top-middle
-        title: Laptop Rollout
-        quote: >
-          July 2021 - December 2021
-        description: | # this will include new lines to allow paragraphs
-            As users began to utilize the benefits of working from home, using video calling for most meetings, and using more of our cloud services, the IT team needed me to complete rollout of laptop devices across the company.
-
-            My responsibilities in this rollout included training sessions, CyberSecurity Workshops, laptop purchases, Laptop building and Deployment, user management, and finally helpdesk management.
-
-            This rollout took place in one of the toughest times for the team, as chip shortages, delays and COVID difficulties all added to the pressure of the rollout, making this project one of the most gratifying and rewarding achievements I've made while working at Timberlands.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
