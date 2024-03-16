@@ -125,18 +125,30 @@ content:
     layout: text
     content: |
       Below are references from my previous positions and educational background. For further details or contact information, please do not hesitate to reach out.
-
-      - <mark>Name</mark> | <mark>Description</mark> | <mark>Contact Number</mark> | <mark>Email Address</mark>
-
-      - Jesse Evans | Mentor/Colleague | Mobile: 021 023 98892 | 
-
-      - Don Hammond | Personal Client, Previous Employer | Mobile: 027 488 5940 | Email: [don@hrml.co.nz](mailto:don@hrml.co.nz)
-
-      - Alesha Morris | Current Manager (Available Upon Request) | | 
-
-      - Richard McCurran | Education Tutor, EmployNZ | Mobile: 022 191 5987 | Email: [richard@employnz.co.nz](mailto:richard@employnz.co.nz)
-
-      - Bryan Graham | Previous Manager, Timberlands | Mobile: 027 466 4963 | Email: [bryan.graham@seeka.co.nz](mailto:bryan.graham@seeka.co.nz)
+  layout: list
+  content:
+    - layout: left
+      name: Jesse Evans
+      description: Mentor/Colleague
+      contact: Mobile: 021 023 98892
+    - layout: left
+      name: Don Hammond
+      description: Personal Client, Previous Employer
+      contact: Mobile: 027 488 5940
+      email: don@hrml.co.nz
+    - layout: left
+      name: Alesha Morris
+      description: Current Manager (Available Upon Request)
+    - layout: left
+      name: Richard McCurran
+      description: Education Tutor, EmployNZ
+      contact: Mobile: 022 191 5987
+      email: richard@employnz.co.nz
+    - layout: left
+      name: Bryan Graham
+      description: Previous Manager, Timberlands
+      contact: Mobile: 027 466 4963
+      email: bryan.graham@seeka.co.nz
 
 
 # Footer
