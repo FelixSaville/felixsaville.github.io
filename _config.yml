@@ -75,40 +75,37 @@ content:
         description: |
           Took on a laptop rollout to support Timberlands' transition to remote work during challenges such as chip shortages and global pandemic-related delays. Managed all aspects of the rollout, including procurement, cybersecurity training, deployment, and helpdesk support. This project allowed me to execute complex IT initiatives under pressure, ensuring business continuity and enhancing remote work capabilities.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+content:
+  - title: Experience
+    layout: list
     content:
-        - layout: left
-          title: Timberlands Limited
-          link: https://tll.co.nz/
-          # link_text: boringcompany.com
-          sub_title: IT Support
-          caption: October 2019 - Present
-          quote: >
-            "We commit to being the best and safest production forest in the world, Mo ake tonu at"
-          description: | # this will include new lines to allow paragraphs
-              At the beginning of my employment with Timberlands, I learned about how to be an IT support person and how their systems work in the day-to-day job.
+      - layout: left
+        title: Timberlands Limited
+        link: https://tll.co.nz/
+        sub_title: IT Support Specialist
+        caption: October 2019 - March 2022
+        quote: "We commit to being the best and safest production forest in the world, Mo ake tonu atu."
+        description: |
+            Initially joining Timberlands as an IT Support Specialist, I rapidly acclimated to the organization's IT infrastructure, focusing on optimizing day-to-day operations. Key accomplishments include:
+            
+            - Mastering the intricacies of Citrix, a private cloud structure, enhancing control and support for the IT team and staff.
+            - Facilitating the transition to an individual device structure to leverage Microsoft's cloud services more effectively, demonstrating adaptability and forward-thinking in IT strategy.
+            - Delivering exceptional support to users, both onsite and remotely, ensuring operational efficiency and user satisfaction.
+            - Contributing significantly to various projects, gaining valuable experience and knowledge, and fostering strong working relationships with colleagues, notably Wayne Pratt and Bryan Graham.
 
-              Before the laptop rollout, Timberlands operated on a private cloud structure called Citrix. The massive advantage of this system was the amount of control and support that it offered to the IT team and staff members.
-
-              Since the start of my employment at Timberlands, they have now shifted towards an individual device structure, as this was the best way to fully utilize cloud services that Microsoft provide.
-
-              I work hard to make sure that our Users are looked after and cared for on-site and externally. A large amount of projects and knowledge has come from working at Timberlands, and I really enjoy working with Wayne Pratt and Bryan Graham.
-
-        - layout: left
-          title: Spark Rotorua
-          link: https://www.spark.co.nz/
-          # link_text: boringcompany.com
-          sub_title: Sales Consultant
-          caption: November 2018 - March 2019
-          quote: >
-            The best hands on experience is front-facing all types of customers, along with assisting NZ in the digital world.
-          description: | # this will include new lines to allow paragraphs
-              Spark is a company that leads the way in telecommunications, along with a large variety of other digital services. My role at Spark was to provide details on devices and digital services a large range of customers across the country.
-
-              While working for Spark, I was tasked with meeting a large amount of daily wholesale targets including selling 60 devices within a week. I also provided IT consultation sessions for larger customers, and understood the best options avaliable to clients along with focusing on their key needs.
-
-              I enjoyed a large amount of my work with Spark, and made sure that my clients have been well looked after. This role gave me strong customer support skills in the long run, and enabled me to become a people person.
+      - layout: left
+        title: Spark Rotorua
+        link: https://www.spark.co.nz/
+        sub_title: Sales Consultant
+        caption: November 2018 - March 2019
+        quote: "The best hands-on experience is front-facing all types of customers, assisting NZ in the digital world."
+        description: |
+            At Spark, a leader in telecommunications and digital services, I excelled as a Sales Consultant, where my responsibilities and achievements included:
+            
+            - Providing detailed consultations on devices and digital services to a diverse clientele across New Zealand, enhancing customer engagement and satisfaction.
+            - Exceeding sales targets by selling 60 devices within a single week, showcasing my ability to drive sales and meet ambitious goals.
+            - Conducting IT consultation sessions for key clients, identifying optimal solutions tailored to their unique needs, demonstrating strong analytical and problem-solving skills.
+            - Cultivating excellent customer service skills, significantly improving client relations and support, and developing a people-centric approach to sales and IT consultation.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
