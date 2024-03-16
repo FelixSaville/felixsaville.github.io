@@ -54,28 +54,26 @@ about_content: | # this will include new lines to allow paragraphs
 
   Finally, my passion for technology doesn't stop at 5 pm; I'm always on the lookout for the latest technology trends, as it's a personal interest that keeps me engaged. My dedication to both my career and personal growth is what fuels my continuous advancement in the world of IT.
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
         title: Timberlands Website Rebuild
-        quote: >
-           March 2020 - November 2020
-        description: | # this will include new lines to allow paragraphs
-          This project started off as one of my KPI's within Timberlands, and become a larger passion project between me and a college! The website was brought in house to save cost and to allow for self management when required.
-
-          The project utilised an On-Site Virtual Machine, and a web content management system called Drupal. We spent a large amount of time making sure that the GUI was user friendly, for both visitors and editors.
+        quote: "March 2020 - November 2020"
+        description: |
+          Initiated and led a strategic in-house rebuild of the Timberlands website as part of a key performance indicator, transforming it into a cost-effective, self-managed platform. Collaborated closely with a colleague to enhance user experience, leveraging Drupal on an on-site Virtual Machine. Focused on developing a user-friendly GUI for both visitors and editors, ensuring accessibility and efficiency.
 
       - layout: top-middle
-        title: Asset Management System
-        quote: >
-          May 2021 - July 2021
-        description: | # this will include new lines to allow paragraphs
-            It became apparent that Timberlands could strongly benefit with an asset management system. I decided to champion this project and gained the support of my manager using a cost-benefit Analysis.
+        title: Asset Management System Implementation
+        quote: "May 2021 - July 2021"
+        description: |
+          Spearheaded the introduction of an asset management system at Timberlands, conducting a cost-benefit analysis to secure managerial support. Selected and implemented SNIPE-IT, a robust, open-source solution tailored for IT teams. This initiative broadened my technical expertise in PHP, Java, CSS, and REST APIs, significantly enhancing digital asset management and future IT support capabilities.
 
-            I choose [SNIPE-IT](https://snipeitapp.com/) as a free, open source system targeted towards IT Teams.
-
-            This project enabled me to gain knowledge about PHP, JAVA and CSS, and an API called "REST". This project has led the Timberlands IT team to be more effective in storing assets digitally, and will assist future IT support in the long run.
+      - layout: top-middle
+        title: Company-Wide Laptop Rollout
+        quote: "July 2021 - December 2021"
+        description: |
+          Led a comprehensive laptop rollout to support Timberlands' transition to remote work, amidst challenges such as chip shortages and pandemic-related delays. Managed all aspects of the rollout, including procurement, cybersecurity training, deployment, and helpdesk support. This project underscored my ability to execute complex IT initiatives under pressure, ensuring business continuity and enhancing remote work capabilities.
 
       - layout: top-middle
         title: Laptop Rollout
