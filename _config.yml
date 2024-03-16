@@ -126,11 +126,13 @@ content:
     content: |
       Below are references from my previous positions and educational background. For further details or contact information, please do not hesitate to reach out.
 
-      - Jesse Evans | Mentor/Colleague | Mobile: 021 023 98892
+      - <mark>Name</mark> | <mark>Description</mark> | <mark>Contact Number</mark> | <mark>Email Address</mark>
+
+      - Jesse Evans | Mentor/Colleague | Mobile: 021 023 98892 | 
 
       - Don Hammond | Personal Client, Previous Employer | Mobile: 027 488 5940 | Email: [don@hrml.co.nz](mailto:don@hrml.co.nz)
 
-      - Alesha Morris | Current Manager (Available Upon Request)
+      - Alesha Morris | Current Manager (Available Upon Request) | | 
 
       - Richard McCurran | Education Tutor, EmployNZ | Mobile: 022 191 5987 | Email: [richard@employnz.co.nz](mailto:richard@employnz.co.nz)
 
