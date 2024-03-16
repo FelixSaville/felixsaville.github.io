@@ -61,19 +61,19 @@ content:
         title: Timberlands Website Rebuild
         quote: "March 2020 - November 2020"
         description: |
-          Initiated and led a strategic in-house rebuild of the Timberlands website as part of a key performance indicator, transforming it into a cost-effective, self-managed platform. Collaborated closely with a colleague to enhance user experience, leveraging Drupal on an on-site Virtual Machine. Focused on developing a user-friendly GUI for both visitors and editors, ensuring accessibility and efficiency.
+          led a strategic in-house rebuild of the Timberlands website as part of my KPI's, transforming it into a cost-effective, self-managed platform. Collaborated closely with a colleague to enhance user experience, leveraging Drupal on an on-site Virtual Machine. Focused on developing a user-friendly GUI for both visitors and editors, ensuring accessibility and efficiency.
 
       - layout: top-middle
         title: Asset Management System Implementation
         quote: "May 2021 - July 2021"
         description: |
-          Spearheaded the introduction of an asset management system at Timberlands, conducting a cost-benefit analysis to secure managerial support. Selected and implemented SNIPE-IT, a robust, open-source solution tailored for IT teams. This initiative broadened my technical expertise in PHP, Java, CSS, and REST APIs, significantly enhancing digital asset management and future IT support capabilities.
+          lead the introduction of an asset management system at Timberlands, conducting a cost-benefit analysis to secure managerial support. Selected and implemented SNIPE-IT, a robust, open-source solution tailored for IT teams. This project allowed me to prefect my technical expertise in PHP, Java, CSS, and REST APIs, significantly enhancing digital asset management and future IT support capabilities.
 
       - layout: top-middle
         title: Company-Wide Laptop Rollout
         quote: "July 2021 - December 2021"
         description: |
-          Led a comprehensive laptop rollout to support Timberlands' transition to remote work, amidst challenges such as chip shortages and pandemic-related delays. Managed all aspects of the rollout, including procurement, cybersecurity training, deployment, and helpdesk support. This project underscored my ability to execute complex IT initiatives under pressure, ensuring business continuity and enhancing remote work capabilities.
+          Took on a laptop rollout to support Timberlands' transition to remote work during challenges such as chip shortages and global pandemic-related delays. Managed all aspects of the rollout, including procurement, cybersecurity training, deployment, and helpdesk support. This project allowed me to execute complex IT initiatives under pressure, ensuring business continuity and enhancing remote work capabilities.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
