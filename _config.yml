@@ -56,22 +56,22 @@ content:
           Took on a laptop rollout to support Timberlands' transition to remote work during challenges such as chip shortages and global pandemic-related delays. Managed all aspects of the rollout, including procurement, cybersecurity training, deployment, and helpdesk support. This project allowed me to execute complex IT initiatives under pressure, ensuring business continuity and enhancing remote work capabilities.
 
       - layout: top-middle
-        title: Proxmox VM Private-Cloud Deployment
-        quote: "Specific Date/Range"
+        title: Private-Cloud Deployment
+        quote: "May 2022 - July 2022"
         description: |
-          Fully set up, deployed, and configured a virtual sandbox and production environment utilizing local hardware to host various in-house applications like Bitwarden through Docker, Windows Servers, Bookstack, and other solutions. This project demonstrated my ability to leverage Proxmox VM technology for efficient virtualization management and deployment, ensuring robust, scalable, and secure IT infrastructure for the company.
+          Deployment and configuration of a full Proxmox VE-Based infrastructure by utilizing clustered local hardware to deploy a private cloud. This strategic plan was aimed at hosting a suite of critical in-house applications, including Bitwarden, Bookstack Wiki and various VM's. This project displayed my knowledge in VM technology to architect a high-resistant, scaliable and secure cluster enviorment.
 
       - layout: top-middle
         title: Cloud Platform Automations
-        quote: "Specific Date/Range"
+        quote: "June 2022 - Ongoing"
         description: |
-          Utilized PowerShell to create and manage a comprehensive user creation, update, and deletion platform, integrating school SMS data with platforms like Microsoft, Google, and Apple School Manager. This automation project facilitated seamless inter-platform communication and management, showcasing my expertise in scripting and automation to optimize IT operations and user account management across multiple cloud services.
+          Sccessfully developed and implemented an advanced automation framework using powershell, designed to synchronize user account operations Microsoft, Google and Apple School Manager. Using data from schools SMS platforms, these automations enchanced inter-platform connectivity, streamlined account management, and displayed my attaptive and deep understanding of PowerShell. This project allowed for massive operational efficiency for clients and reliability our services.  
 
       - layout: top-middle
-        title: Access 4 Deployment
-        quote: "Specific Date/Range"
+        title: VOiP Deployment
+        quote: "September 2022 - Ongoing"
         description: |
-          Leveraged my knowledge of VOIP technology to deploy various phone system setups with schools and businesses across the Bay of Plenty using Webex, Teams, and UCXpress. This solution allowed me to delve into and master VOIP deployment, offering advanced communication solutions that enhanced collaboration and connectivity for our clients.
+          Deployed and configured a VoIP platform across a range of educational / corporate clients within the Bay Of Plenty Region, using cutting-edge VoIP solutions like Webex, Microsoft Teams, and UCXpress through Access 4. This deployment allowed me to learn VoIP technology and adapt these skillsets into existing enviroments, allowing for organisational collaboration platforms and connectivity for our clients.   
 
   - title: Experience
     layout: list
