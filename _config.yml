@@ -121,10 +121,11 @@ content:
 
           During my studies, I learned a lot around many different topics in the IT space, including <mark>Docker</mark> <mark>ASCII</mark> <mark>HyperV</mark> <mark>Domain Administration</mark> <mark>Windows</mark> <mark>Networking</mark> and many other topics that help me in my role today.
 
-content:
   - title: References
     layout: list
     content:
+      - layout: text
+        content: "Below are references from my previous positions and educational background. For further details or contact information, please do not hesitate to reach out."
       - layout: left
         name: Jesse Evans
         description: Mentor/Colleague
