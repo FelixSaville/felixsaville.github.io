@@ -53,6 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   Beyond my career, I'm committed to a balanced lifestyle. Hitting the gym, enjoying pickleball, playing Magic: The Gathering at card shops, or diving into video games are activities that are good for my well-being and social battery!
 
   Finally, my passion for technology doesn't stop at 5 pm; I'm always on the lookout for the latest technology trends, as it's a personal interest that keeps me engaged. My dedication to both my career and personal growth is what fuels my continuous advancement in the world of IT.
+
 content:
   - title: Projects
     layout: list
@@ -120,34 +121,6 @@ content:
           During my time at EmployNZ I learnt most of my key skills that have I taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at EmployNZ and learnt a lot about different Types of Operating Systems, platforms, and programing Languages.
 
           During my studies, I learned a lot around many different topics in the IT space, including <mark>Docker</mark> <mark>ASCII</mark> <mark>HyperV</mark> <mark>Domain Administration</mark> <mark>Windows</mark> <mark>Networking</mark> and many other topics that help me in my role today.
-
-  - title: References
-    layout: list
-    content:
-      - layout: text
-        content: "Below are references from my previous positions and educational background. For further details or contact information, please do not hesitate to reach out."
-      - layout: left
-        name: Jesse Evans
-        description: Mentor/Colleague
-        contact: "Mobile: 021 023 98892"
-      - layout: left
-        name: Don Hammond
-        description: Personal Client, Previous Employer
-        contact: "Mobile: 027 488 5940"
-        email: "don@hrml.co.nz"
-      - layout: left
-        name: Alesha Morris
-        description: Current Manager (Available Upon Request)
-      - layout: left
-        name: Richard McCurran
-        description: Education Tutor, EmployNZ
-        contact: "Mobile: 022 191 5987"
-        email: "richard@employnz.co.nz"
-      - layout: left
-        name: Bryan Graham
-        description: Previous Manager, Timberlands
-        contact: "Mobile: 027 466 4963"
-        email: "bryan.graham@seeka.co.nz"
 
 # Footer
 footer_show_references: true
