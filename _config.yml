@@ -1,4 +1,4 @@
-# Site
+# Site configuration
 repository: FSAdministrator/FSAdministrator.github.io
 favicon: images/favicon.ico
 
@@ -11,48 +11,28 @@ title: Systems Administrator
 email: savillefelix2@gmail.com
 website: https://fsadministrator.github.io/
 
-# Dark Mode (true/false/never)
+# Dark Mode configuration
 darkmode: true
 
-# Social links
-# twitter_username: facespics
+# Social links configuration
 github_username: FSAdministrator
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
 facebook_username: FelixSaville
-# flickr_username: jekyll
 instagram_username: felix_saville
 linkedin_username: felixsaville
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
-# About Section
-# about_title: About Me
-# about_profile_image: images/profile1.jpg
-about_content: | # this will include new lines to allow paragraphs
+# About Section configuration
+about_content: |
   Hello there! I'm Felix, a Systems Engineer at mb3, bringing over 5 years of experience to the ever-evolving world of Information Technology.
 
-  My journey through IT has equipped me with technical knowledge across several key areas. My experience spans <mark>Automation Development (PowerShell, Rust API, Python)</mark>, <mark>Website Design (PHP, JavaScript, HTML + CSS)</mark>, <mark>Infrastructure Management (On-Site, Azure, Google, Hybrid)</mark>, and <mark>Device Deployment (JAMF, Intune)</mark>.
+  My journey through IT has equipped me with technical knowledge across several key areas. My experience spans Automation Development (PowerShell, Rust API, Python), Website Design (PHP, JavaScript, HTML + CSS), Infrastructure Management (On-Site, Azure, Google, Hybrid), and Device Deployment (JAMF, Intune).
 
-  These technical skills have also allowed me to develop <mark>client management skills</mark>, <mark>professional communication</mark>, <mark>simplifying complex system problems</mark>, and <mark>maintaining good relationships</mark> with clients and colleagues.
+  These technical skills have also allowed me to develop client management skills, professional communication, simplifying complex system problems, and maintaining good relationships with clients and colleagues.
 
   Beyond my career, I'm committed to a balanced lifestyle. Hitting the gym, enjoying pickleball, playing Magic: The Gathering at card shops, or diving into video games are activities that are good for my well-being and social battery!
 
   Finally, my passion for technology doesn't stop at 5 pm; I'm always on the lookout for the latest technology trends, as it's a personal interest that keeps me engaged. My dedication to both my career and personal growth is what fuels my continuous advancement in the world of IT.
+
+# Main content configuration
 content:
   - title: Projects
     layout: list
@@ -61,13 +41,13 @@ content:
         title: Timberlands Website Rebuild
         quote: "March 2020 - November 2020"
         description: |
-          led a strategic in-house rebuild of the Timberlands website as part of my KPI's, transforming it into a cost-effective, self-managed platform. Collaborated closely with a colleague to enhance user experience, leveraging Drupal on an on-site Virtual Machine. Focused on developing a user-friendly GUI for both visitors and editors, ensuring accessibility and efficiency.
+          Led a strategic in-house rebuild of the Timberlands website as part of my KPI's, transforming it into a cost-effective, self-managed platform. Collaborated closely with a colleague to enhance user experience, leveraging Drupal on an on-site Virtual Machine. Focused on developing a user-friendly GUI for both visitors and editors, ensuring accessibility and efficiency.
 
       - layout: top-middle
         title: Asset Management System Implementation
         quote: "May 2021 - July 2021"
         description: |
-          lead the introduction of an asset management system at Timberlands, conducting a cost-benefit analysis to secure managerial support. Selected and implemented SNIPE-IT, a robust, open-source solution tailored for IT teams. This project allowed me to prefect my technical expertise in PHP, Java, CSS, and REST APIs, significantly enhancing digital asset management and future IT support capabilities.
+          Led the introduction of an asset management system at Timberlands, conducting a cost-benefit analysis to secure managerial support. Selected and implemented SNIPE-IT, a robust, open-source solution tailored for IT teams. This project allowed me to perfect my technical expertise in PHP, Java, CSS, and REST APIs, significantly enhancing digital asset management and future IT support capabilities.
 
       - layout: top-middle
         title: Company-Wide Laptop Rollout
@@ -75,7 +55,6 @@ content:
         description: |
           Took on a laptop rollout to support Timberlands' transition to remote work during challenges such as chip shortages and global pandemic-related delays. Managed all aspects of the rollout, including procurement, cybersecurity training, deployment, and helpdesk support. This project allowed me to execute complex IT initiatives under pressure, ensuring business continuity and enhancing remote work capabilities.
 
-content:
   - title: Experience
     layout: list
     content:
@@ -86,12 +65,7 @@ content:
         caption: October 2019 - March 2022
         quote: "We commit to being the best and safest production forest in the world, Mo ake tonu atu."
         description: |
-            Originally joined Timberlands as an IT Support Specialist, I rapidly learned the organization's IT infrastructure, focusing on optimizing day-to-day operations. Key accomplishments include:
-            
-            - Mastering the complex platform Citrix, a private cloud structure, enhancing control and support for the IT team and staff.
-            - Supporting the ransition to an individual device structure to leverage Microsoft's cloud services more effectively, showing my addaptive skills and forward-thinking in IT strategy.
-            - Providing exceptional support to users, both onsite and remotely, while maintaining efficiency and user satisfaction.
-            - Contributing to various projects, gaining strong experience and knowledge in the IT field, and forming strong working relationships with colleagues and management.
+            Originally joined Timberlands as an IT Support Specialist, rapidly learning the organization's IT infrastructure, focusing on optimizing day-to-day operations. Key accomplishments include mastering the complex platform Citrix, a private cloud structure, enhancing control and support for the IT team and staff, and providing exceptional support to users, both onsite and remotely, while maintaining efficiency and user satisfaction.
 
       - layout: left
         title: Spark Rotorua
@@ -100,15 +74,10 @@ content:
         caption: November 2018 - March 2019
         quote: "The best hands-on experience is front-facing all types of customers, assisting NZ in the digital world."
         description: |
-            At Spark, a leader in telecommunications and digital services, I provided support to customers as a Sales Consultant, where my responsibilities / achievements included:
-            
-            - Providing detailed consults on devices and digital services to a larnge number of customers across NZ, finding effective and accurate solutions while providing excelent customer support.
-            - Greatly exceeding sales targets by selling 60 solutions within a single month, showing my abilities to drive sales and meet key goals.
-            - Providing IT consultation sessions for key clients, identifying solutions tailored to their unique needs, and demonstrating strong problem-solving skills.
-            - Showcasing excellent customer service skills, improving client relations and support, and developing a people-centric approach to sales and IT consultation.
+            At Spark, a leader in telecommunications and digital services, provided support to customers as a Sales Consultant. Responsibilities/achievements included providing detailed consults on devices and digital services to a large number of customers across NZ, finding effective and accurate solutions while providing excellent customer support, and greatly exceeding sales targets by selling 60 solutions within a single month.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
         title: Avonmore / EmployNZ
@@ -116,13 +85,10 @@ content:
         sub_title: Diploma in Systems Administration (Level 6)
         quote: >
           EmployNZ helped me learn a lot around System Deployment and Management, and I couldn't of done IT without their Hands-On Teaching.
-        description: | # this will include new lines to allow paragraphs
-          During my time at EmployNZ I learnt most of my key skills that have I taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at EmployNZ and learnt a lot about different Types of Operating Systems, platforms, and programing Languages.
+        description: |
+          During my time at EmployNZ, I learnt most of my key skills that I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at EmployNZ and learnt a lot about different Types of Operating Systems, platforms, and programming Languages.
 
-          During my studies, I learned a lot around many different topics in the IT space, including <mark>Docker</mark> <mark>ASCII</mark> <mark>HyperV</mark> <mark>Domain Administration</mark> <mark>Windows</mark> <mark>Networking</mark> and many other topics that help me in my role today.
-
-        
-# Footer
+# Footer configuration
 footer_show_references: true
 references_title: Contact Me For More Information + References!
 
