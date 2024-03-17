@@ -24,14 +24,14 @@ linkedin_username: felixsaville
 about_content: |
   Hello there! I'm Felix, a Systems Engineer at mb3, bringing over 5 years of experience to the ever-evolving world of Information Technology.
 
-  My journey through IT has equipped me with technical knowledge across several key areas. My experience spans Automation Development (PowerShell, Rust API, Python), Website Design (PHP, JavaScript, HTML + CSS), Infrastructure Management (On-Site, Azure, Google, Hybrid), and Device Deployment (JAMF, Intune).
+  My journey through IT has equipped me with technical knowledge across several key areas. My experience spans <mark>Automation Development (PowerShell, Rust API, Python)</mark>, <mark>Website Design (PHP, JavaScript, HTML + CSS)</mark>, <mark>Infrastructure Management (On-Site, Azure, Google, Hybrid)</mark>, and <mark>Device Deployment (JAMF, Intune)</mark>.
 
-  These technical skills have also allowed me to develop client management skills, professional communication, simplifying complex system problems, and maintaining good relationships with clients and colleagues.
+  These technical skills have also allowed me to develop <mark>client management skills</mark>, <mark>professional communication</mark>, <mark>simplifying complex system problems</mark>, and <mark>maintaining good relationships</mark> with clients and colleagues.
 
   Beyond my career, I'm committed to a balanced lifestyle. Hitting the gym, enjoying pickleball, playing Magic: The Gathering at card shops, or diving into video games are activities that are good for my well-being and social battery!
 
   Finally, my passion for technology doesn't stop at 5 pm; I'm always on the lookout for the latest technology trends, as it's a personal interest that keeps me engaged. My dedication to both my career and personal growth is what fuels my continuous advancement in the world of IT.
-
+  
 # Main content configuration
 content:
   - title: Projects
