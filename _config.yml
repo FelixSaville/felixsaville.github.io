@@ -113,36 +113,6 @@ content:
         description: |
           During my time at EmployNZ, I learnt most of my key skills that I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at EmployNZ and learnt a lot about different Types of Operating Systems, platforms, and programming Languages.
 
-- title: References
-  layout: list
-  content:
-    - layout: text
-      content: "Below are references from my previous positions and educational background. For further details or contact information, please do not hesitate to reach out."
-    - layout: reference
-      name: Jesse Evans
-      title: "Mentor/Colleague"
-      contact: "Mobile: 021 023 98892"
-    - layout: reference
-      name: Don Hammond
-      title: "Personal Client, Previous Employer"
-      contact: "Mobile: 027 488 5940"
-      email: "don@hrml.co.nz"
-    - layout: reference
-      name: Alesha Morris
-      title: "Current Manager (Available Upon Request)"
-      contact: ""
-    - layout: reference
-      name: Richard McCurran
-      title: "Education Tutor, EmployNZ"
-      contact: "Mobile: 022 191 5987"
-      email: "richard@employnz.co.nz"
-    - layout: reference
-      name: Bryan Graham
-      title: "Previous Manager, Timberlands"
-      contact: "Mobile: 027 466 4963"
-      email: "bryan.graham@seeka.co.nz"
-
-
 # Footer configuration
 footer_show_references: true
 references_title: Contact Me For More Information + References!
