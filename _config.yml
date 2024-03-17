@@ -73,7 +73,18 @@ content:
         description: |
           Deployed and configured a VoIP platform across a range of educational / corporate clients within the Bay Of Plenty Region, using cutting-edge VoIP solutions like Webex, Microsoft Teams, and UCXpress through Access 4. This deployment allowed me to learn VoIP technology and adapt these skillsets into existing enviroments, allowing for organisational collaboration platforms and connectivity for our clients.   
 
-  - title: Experience
+- title: Experience
+  layout: list
+  content:
+    - layout: left
+      title: mb3 Limited
+      link: https://www.mb3.nz/
+      sub_title: Systems Engineer
+      caption: March 2022 - Current
+      quote: "Enriching lives using Apple technology. Inspire, Innovate, Empower."
+      description: |
+        Joined mb3 Limited as a Systems Engineer, focusing on leveraging Apple technology and MDM solutions like Intune and JAMF to enhance IT system manageability and device deployment for iwi, schools, and businesses. Key responsibilities include designing and executing IT projects, optimizing operations, and managing helpdesk requests. My role is instrumental in providing quality support across various solutions, ensuring client IT ecosystems are efficient and user-friendly.
+
     layout: list
     content:
       - layout: left
