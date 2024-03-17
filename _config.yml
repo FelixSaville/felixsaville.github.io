@@ -84,24 +84,22 @@ content:
       quote: "Enriching lives using Apple technology. Inspire, Innovate, Empower."
       description: |
         Joined mb3 Limited as a Systems Engineer, focusing on leveraging Apple technology and MDM solutions like Intune and JAMF to enhance IT system manageability and device deployment for iwi, schools, and businesses. Key responsibilities include designing and executing IT projects, optimizing operations, and managing helpdesk requests. My role is instrumental in providing quality support across various solutions, ensuring client IT ecosystems are efficient and user-friendly.
-
-      - layout: left
-        title: Timberlands Limited
-        link: https://tll.co.nz/
-        sub_title: IT Support Specialist
-        caption: October 2019 - March 2022
-        quote: "We commit to being the best and safest production forest in the world, Mo ake tonu atu."
-        description: |
-            Originally joined Timberlands as an IT Support Specialist, rapidly learning the organization's IT infrastructure, focusing on optimizing day-to-day operations. Key accomplishments include mastering the complex platform Citrix, a private cloud structure, enhancing control and support for the IT team and staff, and providing exceptional support to users, both onsite and remotely, while maintaining efficiency and user satisfaction.
-
-      - layout: left
-        title: Spark Rotorua
-        link: https://www.spark.co.nz/
-        sub_title: Sales Consultant
-        caption: November 2018 - March 2019
-        quote: "The best hands-on experience is front-facing all types of customers, assisting NZ in the digital world."
-        description: |
-            At Spark, a leader in telecommunications and digital services, provided support to customers as a Sales Consultant. Responsibilities/achievements included providing detailed consults on devices and digital services to a large number of customers across NZ, finding effective and accurate solutions while providing excellent customer support, and greatly exceeding sales targets by selling 60 solutions within a single month.
+    - layout: left
+      title: Timberlands Limited
+      link: https://tll.co.nz/
+      sub_title: IT Support Specialist
+      caption: October 2019 - March 2022
+      quote: "We commit to being the best and safest production forest in the world, Mo ake tonu atu."
+      description: |
+          Originally joined Timberlands as an IT Support Specialist, rapidly learning the organization's IT infrastructure, focusing on optimizing day-to-day operations. Key accomplishments include mastering the complex platform Citrix, a private cloud structure, enhancing control and support for the IT team and staff, and providing exceptional support to users, both onsite and remotely, while maintaining efficiency and user satisfaction.
+    - layout: left
+      title: Spark Rotorua
+      link: https://www.spark.co.nz/
+      sub_title: Sales Consultant
+      caption: November 2018 - March 2019
+      quote: "The best hands-on experience is front-facing all types of customers, assisting NZ in the digital world."
+      description: |
+          At Spark, a leader in telecommunications and digital services, provided support to customers as a Sales Consultant. Responsibilities/achievements included providing detailed consults on devices and digital services to a large number of customers across NZ, finding effective and accurate solutions while providing excellent customer support, and greatly exceeding sales targets by selling 60 solutions within a single month.
 
   - title: Education
     layout: list
