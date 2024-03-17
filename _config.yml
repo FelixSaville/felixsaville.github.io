@@ -76,6 +76,15 @@ content:
   - title: Experience
     layout: list
     content:
+    - layout: left
+      title: mb3 Limited
+      link: https://www.mb3.nz/
+      sub_title: Systems Engineer
+      caption: March 2022 - Current
+      quote: "Enriching lives using Apple technology. Inspire, Innovate, Empower."
+      description: |
+        Joined mb3 Limited as a Systems Engineer, focusing on leveraging Apple technology and MDM solutions like Intune and JAMF to enhance IT system manageability and device deployment for iwi, schools, and businesses. Key responsibilities include designing and executing IT projects, optimizing operations, and managing helpdesk requests. My role is instrumental in providing quality support across various solutions, ensuring client IT ecosystems are efficient and user-friendly.
+
       - layout: left
         title: Timberlands Limited
         link: https://tll.co.nz/
