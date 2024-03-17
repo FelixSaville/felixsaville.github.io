@@ -31,7 +31,7 @@ about_content: |
   Beyond my career, I'm committed to a balanced lifestyle. Hitting the gym, enjoying pickleball, playing Magic: The Gathering at card shops, or diving into video games are activities that are good for my well-being and social battery!
 
   Finally, my passion for technology doesn't stop at 5 pm; I'm always on the lookout for the latest technology trends, as it's a personal interest that keeps me engaged. My dedication to both my career and personal growth is what fuels my continuous advancement in the world of IT.
-
+  
 # Main content configuration
 content:
   - title: Projects
@@ -59,47 +59,40 @@ content:
         title: Private-Cloud Deployment
         quote: "May 2022 - July 2022"
         description: |
-          Deployment and configuration of a full Proxmox VE-Based infrastructure by utilizing clustered local hardware to deploy a private cloud. This strategic plan was aimed at hosting a suite of critical in-house applications, including Bitwarden, Bookstack Wiki and various VM's. This project displayed my knowledge in VM technology to architect a high-resistant, scalable and secure cluster environment.
+          Deployment and configuration of a full Proxmox VE-Based infrastructure by utilizing clustered local hardware to deploy a private cloud. This strategic plan was aimed at hosting a suite of critical in-house applications, including Bitwarden, Bookstack Wiki and various VM's. This project displayed my knowledge in VM technology to architect a high-resistant, scaliable and secure cluster enviorment.
 
       - layout: top-middle
         title: Cloud Platform Automations
         quote: "June 2022 - Ongoing"
         description: |
-          Successfully developed and implemented an advanced automation framework using PowerShell, designed to synchronize user account operations Microsoft, Google and Apple School Manager. Using data from schools SMS platforms, these automations enhanced inter-platform connectivity, streamlined account management, and displayed my adaptive and deep understanding of PowerShell. This project allowed for massive operational efficiency for clients and reliability of our services.
+          Sccessfully developed and implemented an advanced automation framework using powershell, designed to synchronize user account operations Microsoft, Google and Apple School Manager. Using data from schools SMS platforms, these automations enchanced inter-platform connectivity, streamlined account management, and displayed my attaptive and deep understanding of PowerShell. This project allowed for massive operational efficiency for clients and reliability our services.  
 
       - layout: top-middle
         title: VOiP Deployment
         quote: "September 2022 - Ongoing"
         description: |
-          Deployed and configured a VoIP platform across a range of educational / corporate clients within the Bay Of Plenty Region, using cutting-edge VoIP solutions like Webex, Microsoft Teams, and UCXpress through Access 4. This deployment allowed me to learn VoIP technology and adapt these skillsets into existing environments, allowing for organisational collaboration platforms and connectivity for our clients.
+          Deployed and configured a VoIP platform across a range of educational / corporate clients within the Bay Of Plenty Region, using cutting-edge VoIP solutions like Webex, Microsoft Teams, and UCXpress through Access 4. This deployment allowed me to learn VoIP technology and adapt these skillsets into existing enviroments, allowing for organisational collaboration platforms and connectivity for our clients.   
 
-- title: Experience
-  layout: list
-  content:
-    - layout: left
-      title: mb3 Limited
-      link: https://www.mb3.nz/
-      sub_title: Systems Engineer
-      caption: March 2022 - Current
-      quote: "Enriching lives using Apple technology. Inspire, Innovate, Empower."
-      description: |
-        Joined mb3 Limited as a Systems Engineer, focusing on leveraging Apple technology and MDM solutions like Intune and JAMF to enhance IT system manageability and device deployment for iwi, schools, and businesses. Key responsibilities include designing and executing IT projects, optimizing operations, and managing helpdesk requests. My role is instrumental in providing quality support across various solutions, ensuring client IT ecosystems are efficient and user-friendly.
-    - layout: left
-      title: Timberlands Limited
-      link: https://tll.co.nz/
-      sub_title: IT Support Specialist
-      caption: October 2019 - March 2022
-      quote: "We commit to being the best and safest production forest in the world, Mo ake tonu atu."
-      description: |
-          Originally joined Timberlands as an IT Support Specialist, rapidly learning the organization's IT infrastructure, focusing on optimizing day-to-day operations. Key accomplishments include mastering the complex platform Citrix, a private cloud structure, enhancing control and support for the IT team and staff, and providing exceptional support to users, both onsite and remotely, while maintaining efficiency and user satisfaction.
-    - layout: left
-      title: Spark Rotorua
-      link: https://www.spark.co.nz/
-      sub_title: Sales Consultant
-      caption: November 2018 - March 2019
-      quote: "The best hands-on experience is front-facing all types of customers, assisting NZ in the digital world."
-      description: |
-          At Spark, a leader in telecommunications and digital services, provided support to customers as a Sales Consultant. Responsibilities/achievements included providing detailed consults on devices and digital services to a large number of customers across NZ, finding effective and accurate solutions while providing excellent customer support, and greatly exceeding sales targets by selling 60 solutions within a single month.
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Timberlands Limited
+        link: https://tll.co.nz/
+        sub_title: IT Support Specialist
+        caption: October 2019 - March 2022
+        quote: "We commit to being the best and safest production forest in the world, Mo ake tonu atu."
+        description: |
+            Originally joined Timberlands as an IT Support Specialist, rapidly learning the organization's IT infrastructure, focusing on optimizing day-to-day operations. Key accomplishments include mastering the complex platform Citrix, a private cloud structure, enhancing control and support for the IT team and staff, and providing exceptional support to users, both onsite and remotely, while maintaining efficiency and user satisfaction.
+
+      - layout: left
+        title: Spark Rotorua
+        link: https://www.spark.co.nz/
+        sub_title: Sales Consultant
+        caption: November 2018 - March 2019
+        quote: "The best hands-on experience is front-facing all types of customers, assisting NZ in the digital world."
+        description: |
+            At Spark, a leader in telecommunications and digital services, provided support to customers as a Sales Consultant. Responsibilities/achievements included providing detailed consults on devices and digital services to a large number of customers across NZ, finding effective and accurate solutions while providing excellent customer support, and greatly exceeding sales targets by selling 60 solutions within a single month.
 
   - title: Education
     layout: list
@@ -109,7 +102,7 @@ content:
         caption: February 2016 - November 2018
         sub_title: Diploma in Systems Administration (Level 6)
         quote: >
-          EmployNZ helped me learn a lot around System Deployment and Management, and I couldn't have done IT without their Hands-On Teaching.
+          EmployNZ helped me learn a lot around System Deployment and Management, and I couldn't of done IT without their Hands-On Teaching.
         description: |
           During my time at EmployNZ, I learnt most of my key skills that I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at EmployNZ and learnt a lot about different Types of Operating Systems, platforms, and programming Languages.
 
