@@ -74,7 +74,7 @@ content:
           During my time at EmployNZ, I learnt most of my key skills that I have taken through my career, such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at EmployNZ and learnt a lot about different Types of Operating Systems, platforms, and programming Languages.
 
   - title: Projects
-    layout: list
+    layout: gallery
     content:
       - layout: top-middle
         title: Timberlands Website Rebuild
@@ -117,11 +117,21 @@ footer_show_references: true
 references_title: Email me directly for more information and refrences!
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
   style: compressed
 
+include:
+  - _assets/js/custom.js  # Assuming a custom.js file for interactive JavaScript
+
+exclude:
+  - node_modules/
+
 plugins:
  - jekyll-seo-tag
+
+ seo:
+  name: Felix Saville
+  description: "Felix Saville - Experienced Systems Administrator specializing in automation, infrastructure management, and cloud technologies."
