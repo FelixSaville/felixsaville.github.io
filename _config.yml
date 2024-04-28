@@ -127,8 +127,7 @@ include:
   - _assets/js/custom.js  # Assuming a custom.js file for interactive JavaScript
 
 exclude:
-  - node_modules/
-
+ - node_modules/
 plugins:
  - jekyll-seo-tag
 
