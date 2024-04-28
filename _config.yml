@@ -108,6 +108,10 @@ footer_show_references: true
 references_title: Email me directly for more information and references!
 
 # Build settings
+plugins:
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
 remote_theme: sproogen/modern-resume-theme
 
 sass:
@@ -116,9 +120,6 @@ sass:
 
 include:
   - _assets/js/custom.js
-
-plugins:
-  - jekyll-seo-tag
 
 seo:
   name: Felix Saville
