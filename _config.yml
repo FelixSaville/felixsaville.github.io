@@ -109,17 +109,16 @@ references_title: Email me directly for more information and references!
 
 # Build settings
 plugins:
+  - jekyll-gist
+  - jekyll-coffeescript
   - jekyll-seo-tag
-  - jekyll-remote-theme
+  - some-other-jekyll-plugin
 
 remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
   style: compressed
-
-include:
-  - _assets/js/custom.js
 
 seo:
   name: Felix Saville
