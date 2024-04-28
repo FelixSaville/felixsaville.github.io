@@ -112,7 +112,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
-remote_theme: sproogen/modern-resume-theme
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
