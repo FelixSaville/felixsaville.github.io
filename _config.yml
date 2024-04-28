@@ -70,7 +70,7 @@ content:
           During my time at EmployNZ, I learnt most of my key skills that I have taken through my career, such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at EmployNZ and learnt a lot about different Types of Operating Systems, platforms, and programming Languages.
 
   - title: Projects
-    layout: gallery
+    layout: list
     content:
       - layout: top-middle
         title: Timberlands Website Rebuild
