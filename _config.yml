@@ -22,10 +22,10 @@ linkedin_username: felixsaville
 
 # About Section configuration
 about_content: |
-  Hello there! I'm Felix, a Systems Engineer at mb3, bringing over 5 years of experience to the ever-evolving world of Information Technology.
-  My experience spans <mark>Automation Development (PowerShell, Rust API, Python)</mark>, <mark>Website Design (PHP, JavaScript, HTML + CSS)</mark>, <mark>Infrastructure Management (On-Site, Azure, Google, Hybrid)</mark>, and <mark>Device Deployment (JAMF, Intune)</mark>.
-  These technical skills have also allowed me to develop <mark>client management skills</mark>, <mark>professional communication</mark>, <mark>simplifying complex system problems</mark>, and <mark>maintaining good relationships</mark> with clients and colleagues.
-  Finally, my passion for technology doesn't stop at 5pm; I'm always on the lookout for the latest technology trends, as it's a personal interest that keeps me engaged. My dedication to both my career and personal growth is what fuels my continuous advancement in the world of IT.
+  Hello there! I'm Felix, a Systems Engineer at OmniNet Limited, bringing over 6 years of experience to the ever-evolving world of Information Technology.
+  My experience spans <mark>Automation Development (PowerShell, Rust API, Python)</mark>, <mark>Website Design (PHP, JavaScript, HTML + CSS)</mark>, <mark>Infrastructure Management (On-Site, Azure, Google, Hybrid)</mark>, and <mark>Device Deployment (JAMF, Intune, Autopilot)</mark>.
+  At OmniNet, I design and implement IT infrastructure solutions, lead cloud-first and hybrid projects, and deliver automation to streamline operations. My technical skills are complemented by strong client management, professional communication, and a passion for simplifying complex system problems.
+  My dedication to technology extends beyond work hours—I'm always exploring the latest trends, fueling my continuous growth in IT.
 
 # Main content configuration
 content:
@@ -33,13 +33,21 @@ content:
     layout: list
     content:
       - layout: left
+        title: OmniNet Limited
+        link: https://www.omninet.co.nz/
+        sub_title: Systems Engineer
+        caption: July 2024 - Present
+        quote: "Driving innovation and efficiency through cloud-first IT solutions."
+        description: |
+          Responsible for designing, implementing, and supporting IT infrastructure solutions across client environments. This includes Azure AD migrations, Microsoft 365 deployments, Intune/Autopilot device management, and endpoint security configurations. Acted as a technical lead on projects involving cloud-first strategies, hybrid infrastructure transitions, and client onboarding, while providing escalation support and maintaining strong client relationships.
+      - layout: left
         title: mb3 Limited
         link: https://www.mb3.nz/
         sub_title: Systems Engineer
-        caption: March 2022 - Current
+        caption: March 2022 - July 2024
         quote: "Enriching lives using Apple technology. Inspire, Innovate, Empower."
         description: |
-          I have joined mb3 Limited as a Systems Engineer, specializing in the management and deployment of IT systems within Microsoft, Linux, and Apple ecosystems. My primary focus is to enhance IT system manageability and streamline device deployment for iwi, education, and business. My key responsibilities include the design and execution of IT projects, optimizing operations through automation, and overseeing helpdesk requests. In my role, I am committed to delivering high-quality support across various solutions, ensuring that our clients' IT ecosystems are both efficient and user-friendly.
+          I joined mb3 Limited as a Systems Engineer, specializing in the management and deployment of IT systems within Microsoft, Linux, and Apple ecosystems. My primary focus was to enhance IT system manageability and streamline device deployment for iwi, education, and business. My key responsibilities included the design and execution of IT projects, optimizing operations through automation, and overseeing helpdesk requests. In my role, I was committed to delivering high-quality support across various solutions, ensuring that our clients' IT ecosystems were both efficient and user-friendly.
       - layout: left
         title: Timberlands Limited
         link: https://tll.co.nz/
