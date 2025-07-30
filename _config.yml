@@ -22,10 +22,10 @@ linkedin_username: felixsaville
 
 # About Section configuration
 about_content: |
-  Hello there! I'm Felix, a Systems Engineer at OmniNet Limited, bringing over 6 years of experience to the ever-evolving world of Information Technology.
-  My experience spans <mark>Automation Development (PowerShell, Rust API, Python)</mark>, <mark>Website Design (PHP, JavaScript, HTML + CSS)</mark>, <mark>Infrastructure Management (On-Site, Azure, Google, Hybrid)</mark>, and <mark>Device Deployment (JAMF, Intune, Autopilot)</mark>.
-  At OmniNet, I design and implement IT infrastructure solutions, lead cloud-first and hybrid projects, and deliver automation to streamline operations. My technical skills are complemented by strong client management, professional communication, and a passion for simplifying complex system problems.
-  My dedication to technology extends beyond work hours—I'm always exploring the latest trends, fueling my continuous growth in IT.
+  Hello there! I'm Felix, a Systems Engineer at OmniNet Limited with over 6 years of hands-on experience in IT infrastructure, automation, and cloud transitions.
+  My expertise includes <mark>PowerShell automation</mark>, <mark>Microsoft 365 and Azure deployments</mark>, <mark>Intune and Autopilot device provisioning</mark>, and <mark>hybrid-to-cloud migrations</mark>. I specialize in streamlining IT operations across education, business, and corporate environments by developing scalable, efficient, and secure systems.
+  At OmniNet, I lead client-focused IT projects ranging from Exchange migrations and cross-tenant consolidation to endpoint policy enforcement, compliance hardening, and platform automation. My scripting work enables consistency and control across complex environments.
+  Outside of work, I continuously explore new technologies—from Linux optimization to cloud-native hosting—always sharpening my skills and pushing for smarter, more effective solutions.
 
 # Main content configuration
 content:
@@ -126,4 +126,4 @@ plugins:
 
 seo:
   name: Felix Saville
-  description: "Felix Saville - Experienced Systems Administrator specializing in automation, infrastructure management, and cloud technologies."
+  description: "Felix Saville – Systems Engineer specializing in cloud infrastructure, automation, and device deployment."
