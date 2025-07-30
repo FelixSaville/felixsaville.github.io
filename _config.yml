@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Felix Saville
-title: Systems Administrator
+title: Systems Engineer
 email: savillefelix2@gmail.com
 website: https://felixsaville.github.io/
 
@@ -72,7 +72,7 @@ content:
         title: Avonmore / EmployNZ
         caption: February 2016 - November 2018
         sub_title: Diploma in Systems Administration (Level 6)
-        quote: "EmployNZ helped me learn a lot around System Deployment and Management, and I couldn't of done IT without their Hands-On Teaching."
+        quote: "EmployNZ helped me learn a lot around System Deployment and Management, and I couldn’t have done IT without their Hands-On Teaching."
         description: |
           During my time at EmployNZ, I learnt most of my key skills that I have taken through my career, such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at EmployNZ and learnt a lot about different Types of Operating Systems, platforms, and programming Languages.
 
@@ -80,35 +80,35 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: Timberlands Website Rebuild
-        quote: "March 2020 - June 2020"
-        description: |
-          Led a strategic in-house rebuild of the Timberlands website as part of my KPI's, transforming it into a cost-effective, self-managed platform. Collaborated closely with a colleague to enhance user experience, utilizing Drupal on an on-site Virtual Machine. Focused on developing a user-friendly GUI for both visitors and editors, ensuring accessibility and efficiency.
-      - layout: top-middle
-        title: Asset Management System Implementation
-        quote: "May 2021 - July 2021"
-        description: |
-          Led the introduction of an asset management system at Timberlands, conducting a cost-benefit analysis to secure managerial support. Selected and implemented SNIPE-IT, a robust, open-source solution tailored for IT teams. This project allowed me to perfect my technical expertise in PHP, Java, CSS, and REST APIs, significantly enhancing digital asset management and future IT support capabilities.
-      - layout: top-middle
         title: Company-Wide Laptop Rollout
         quote: "July 2021 - December 2021"
         description: |
           Took on a laptop rollout to support Timberlands' transition to remote work during challenges such as chip shortages and global pandemic-related delays. Managed all aspects of the rollout, including procurement, cybersecurity training, deployment, and helpdesk support. This project allowed me to execute complex IT initiatives under pressure, ensuring business continuity and enhancing remote work capabilities.
       - layout: top-middle
         title: Private-Cloud Deployment
-        quote: "May 2022 - July 2022"
+        quote: "May 2022 - August 2022"
         description: |
-          Deployment and configuration of a full Proxmox VE-Based infrastructure by utilizing clustered local hardware to deploy a private cloud. This strategic plan was aimed at hosting a suite of critical in-house applications, including Bitwarden, Bookstack Wiki and various VM's. This project displayed my knowledge in VM technology to design a high-resistant, scalable and secure cluster environment.
+          Deployed and configured a full Proxmox VE-based infrastructure using clustered local hardware to host a private cloud. This strategic environment supported critical in-house applications, including Bitwarden, Bookstack Wiki, and various virtual machines. The project demonstrated my proficiency in virtualization technologies by delivering a resilient, scalable, and secure cluster.
       - layout: top-middle
         title: Cloud Platform Automations
-        quote: "June 2022 - Ongoing"
+        quote: "June 2022 - June 2024"
         description: |
-          Successfully developed and implemented an advanced automation framework using PowerShell, designed to synchronize user account operations between Microsoft, Google, and Apple School Manager. Using data from schools' SMS platforms, these automations enhanced inter-platform connectivity, streamlined account management, and displayed my adaptive and deep understanding of PowerShell. This project allowed for massive operational efficiency for clients and reliability of our services.
+          Successfully developed and maintained an advanced automation framework using PowerShell, designed to synchronize user account operations between Microsoft 365, Google Workspace, and Apple School Manager. Integrated with school SMS platforms to streamline account creation, licensing, and group assignments. Improved operational efficiency and platform reliability across education clients.
       - layout: top-middle
         title: VoIP Deployment
-        quote: "September 2022 - Ongoing"
+        quote: "September 2022 - April 2024"
         description: |
-          Deployed and configured a VoIP platform across a range of educational/corporate clients within the Bay Of Plenty Region, using cutting-edge VoIP solutions like Webex, Microsoft Teams, and UCXpress through Access 4. This deployment allowed me to learn VoIP technology and adapt these skill sets into existing environments, allowing for organizational collaboration platforms and connectivity for our clients.
+          Deployed and configured various VoIP platforms across educational and corporate clients in the Bay of Plenty region. Implemented solutions such as Webex, Microsoft Teams, and UCXpress through Access 4. Gained expertise in VoIP systems while enhancing client communication infrastructure and collaboration capabilities.
+      - layout: top-middle
+        title: Cross-Tenant Microsoft 365 Migration
+        quote: "August 2024 – September 2024"
+        description: |
+          Constructed a Microsoft 365 tenant-to-tenant migration using AvePoint Fly. Consolidated user mailboxes and calendars, developed PowerShell automation to replicate permissions and calendar delegations, and coordinated DNS cutovers. Delivered a seamless migration experience with minimal downtime and configuration impact.
+      - layout: top-middle
+        title: Autopilot Deployment Project
+        quote: "May 2025 - June 2025"
+        description: |
+          Designed and implemented a modern device deployment and management strategy using Microsoft Intune and Autopilot. This included a 35-device deployment, Win32 app packaging, Defender configuration, and conditional access policies. Delivered standardized deployment templates and automation for Start Menu layouts, Taskbar pinning, and Office provisioning across multiple clients.
 
 # Footer configuration
 footer_show_references: true
