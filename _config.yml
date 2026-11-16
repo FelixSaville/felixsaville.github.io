@@ -82,7 +82,8 @@ content:
         sub_title: Diploma in Systems Administration (Level 6)
         quote: "EmployNZ helped me learn a lot around System Deployment and Management, and I couldn’t have done IT without their Hands-On Teaching."
         description: |
-          Built my foundation in operating systems, networking, system deployment, and programming, along with teamwork and working to tight deadlines.
+          A hands-on, practical diploma covering system deployment and management across different operating systems and platforms, along with an introduction to several programming languages. Most of the course was taught in a lab setting, building, configuring, and troubleshooting real systems rather than just learning the theory.
+          It's where I built the foundation I've carried through my career: how to plan and deploy systems properly, work as part of a team, and deliver to tight deadlines. It also sparked the interest in scripting and automation that has shaped much of my work since.
 
   - title: Projects
     layout: list
@@ -91,52 +92,52 @@ content:
         title: VoIP Deployment
         quote: "September 2022 - April 2024"
         description: |
-          Deployed Webex, Microsoft Teams calling, and UCXpress (Access4) phone systems for schools and businesses across the Bay of Plenty, moving clients onto cloud calling and building them better ways to collaborate.
+          Deployed Webex, Microsoft Teams calling, and UCXpress (Access4) phone systems for schools and businesses across the Bay of Plenty, moving clients onto cloud calling and building them better ways to collaborate. Configured each platform to fit how the client worked, and supported staff through the switchover.
       - layout: top-middle
         title: Cross-Tenant Microsoft 365 Migration
         quote: "August 2024 – September 2024"
         description: |
-          Consolidated two Microsoft 365 tenants with AvePoint Fly, moving mailboxes and calendars between them. Wrote PowerShell to replicate mailbox permissions and calendar delegations, then coordinated the DNS cutover with minimal downtime for users.
+          Consolidated two Microsoft 365 tenants with AvePoint Fly, moving mailboxes and calendars between them. Wrote PowerShell to replicate mailbox permissions and calendar delegations, then coordinated the DNS cutover with minimal downtime for users. The result was one tenant with users' access, shared calendars, and delegations working as they had before.
       - layout: top-middle
         title: Autopilot Deployment Project
         quote: "May 2025 - June 2025"
         description: |
-          Designed and rolled out a 35-device deployment with Intune and Autopilot, including Win32 app packaging, Defender, and conditional access policies. Built templates for Start menu layouts, taskbar pins, and Office provisioning, delivered across multiple clients.
+          Designed and rolled out a 35-device deployment with Intune and Autopilot, including Win32 app packaging, Defender, and conditional access policies. Built templates for Start menu layouts, taskbar pins, and Office provisioning, delivered across multiple clients. New devices arrived ready to use from first sign-in, with security and apps in place and no manual imaging.
       - layout: top-middle
         title: Claude AI Deployment Framework
         quote: "2026"
         description: |
-          Wrote VisionLab's internal guide to advising clients on Claude: discovery questions, choosing the right plan for their data and Privacy Act obligations, and connecting it to Microsoft 365 with the least access needed. Led client rollouts including SSO, auto-provisioning groups, Microsoft 365 and Xero integrations, and user training.
+          Wrote VisionLab's internal guide to advising clients on Claude: discovery questions, choosing the right plan for their data and Privacy Act obligations, and connecting it to Microsoft 365 with the least access needed. Led client rollouts including SSO, auto-provisioning groups, Microsoft 365 and Xero integrations, and user training. The framework puts protecting the client's tenant and data first, so every recommendation can be backed up with how it's deployed and why.
       - layout: top-middle
         title: Linux Application Server Rebuild
         quote: "2026"
         description: |
-          Audited a client's internet-facing CentOS 8 server running the production, UAT, and development environments of a Rust and React web platform. Found an exposed end-of-life PostgreSQL database, services running as root, and no active firewall. Planned a clean rebuild on Oracle Linux rather than a risky in-place upgrade, including the database migration, after-hours cutover, and decommission.
+          Audited a client's internet-facing CentOS 8 server running the production, UAT, and development environments of a Rust and React web platform. Found an exposed end-of-life PostgreSQL database, services running as root, and no active firewall. Planned a clean rebuild on Oracle Linux rather than a risky in-place upgrade, including the database migration, after-hours cutover, and decommission. Wrote up the audit in plain language for the client, with the risks ranked and a fix for each.
       - layout: top-middle
         title: Azure Backup & Disaster Recovery
         quote: "2026"
         description: |
-          Designed two-layer backup for an Azure-hosted client: Veeam Data Cloud for recovery inside Azure, plus Veeam Backup & Replication with a VisionLab-held copy that can restore anywhere. Set up tiered retention from 8-hourly snapshots to 12 months of monthly backups, proved it with a full restore into Hyper-V, and wrote the disaster recovery plan.
+          Designed two-layer backup for an Azure-hosted client: Veeam Data Cloud for recovery inside Azure, plus Veeam Backup & Replication with a VisionLab-held copy that can restore anywhere. Set up tiered retention from 8-hourly snapshots to 12 months of monthly backups, proved it with a full restore into Hyper-V, and wrote the disaster recovery plan. The client now has a tested way back from an outage, whether the problem is a single server or the whole Azure environment.
       - layout: top-middle
         title: Compliance Call Recording & Transcription
         quote: "2026"
         description: |
-          Designed policy-enforced call recording for a multi-site engineering firm, which starts automatically and can't be stopped or deleted by users. Designed an automated pipeline that stores transcripts and audio in SharePoint, with a permission model that limits each recording to the people in that meeting. Built a Node.js MCP server so staff can search and summarise their calls with Claude.
+          Designed policy-enforced call recording for a multi-site engineering firm, which starts automatically and can't be stopped or deleted by users. Designed an automated pipeline that stores transcripts and audio in SharePoint, with a permission model that limits each recording to the people in that meeting. Built a Node.js MCP server so staff can search and summarise their calls with Claude. Worked directly with the vendor on API access and speaker identification to fill the gaps in their platform.
       - layout: top-middle
         title: CyberCert Security Assessments
         quote: "2026"
         description: |
-          Assessed small businesses against New Zealand's CyberCert controls, covering RMM and EDR coverage, MFA, email authentication (SPF, DKIM, DMARC), firewalls, backups, and security policies. Turned the gaps into prioritised remediation tickets and proposals, and helped bring VisionLab's own environment up to the same standard.
+          Assessed small businesses against New Zealand's CyberCert controls, covering RMM and EDR coverage, MFA, email authentication (SPF, DKIM, DMARC), firewalls, backups, and security policies. Turned the gaps into prioritised remediation tickets and proposals, and helped bring VisionLab's own environment up to the same standard. Set up a repeatable structure for assessments, so each finding becomes a tracked ticket.
       - layout: top-middle
         title: Legacy Database Review & Modernisation
         quote: "2026"
         description: |
-          Reviewed an agricultural contractor's three linked Microsoft Access systems, which ran their whole job lifecycle from orders to invoicing. Documented every table, form, report, and sync script, flagged a data-loss risk in how data moved between machines, and scoped a replacement on Power Apps and Dataverse.
+          Reviewed an agricultural contractor's three linked Microsoft Access systems, which ran their whole job lifecycle from orders to invoicing. Documented every table, form, report, and sync script, flagged a data-loss risk in how data moved between machines, and scoped a replacement on Power Apps and Dataverse. Delivered a plain-language report that gave the client a clear basis for quoting and deciding on the replacement.
       - layout: top-middle
         title: Dracxi Hosting
         quote: "2025 - Present"
         description: |
-          Built and run a game-server hosting business for New Zealand and Australia, on Laravel, PostgreSQL, and Stripe billing. Self-hosted with Docker Compose behind Cloudflare and a FortiGate firewall, with automated deployments, Uptime Kuma monitoring, and GlitchTip error tracking, all reporting to Discord.
+          Built and run a game-server hosting business for New Zealand and Australia, on Laravel, PostgreSQL, and Stripe billing. Self-hosted with Docker Compose behind Cloudflare and a FortiGate firewall, with automated deployments, Uptime Kuma monitoring, and GlitchTip error tracking, all reporting to Discord. I handle everything from the code and infrastructure to patching, billing, and customer support.
 
 # Footer configuration
 footer_show_references: true
