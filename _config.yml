@@ -20,14 +20,18 @@ facebook_username: FelixSaville
 instagram_username: felix_saville
 linkedin_username: felixsaville
 
+# Extra header buttons (the theme opens these in a new tab, so use full URLs)
+additional_links:
+  - title: Download my CV (PDF)
+    icon: fas fa-file-pdf
+    url: https://felixsaville.github.io/Felix-Saville-CV.pdf
+
 # About Section configuration
 about_content: |
   Hello there! I'm Felix, a Systems Engineer at VisionLab with over 7 years of experience in IT infrastructure, automation, and cloud.
   I specialise in <mark>Microsoft 365 and Azure</mark>, <mark>Intune and Entra ID</mark>, <mark>PowerShell and RMM automation</mark>, <mark>backup and disaster recovery</mark>, and <mark>secure AI adoption</mark>. Over my career I've supported businesses, schools, and iwi across the Bay of Plenty, from day-to-day helpdesk through to leading migrations, security reviews, and infrastructure rebuilds.
   I enjoy taking messy, manual environments and turning them into something documented, automated, and secure, and explaining the why to clients along the way.
   Outside of work, I run my own game-server hosting platform built on Laravel, Docker, and self-hosted infrastructure, which keeps my Linux and networking skills sharp.
-
-  <strong><a href="Felix-Saville-CV.pdf" download>Download my CV (PDF)</a></strong>
 
 # Main content configuration
 content:
