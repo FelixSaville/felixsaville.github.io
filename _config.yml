@@ -88,21 +88,6 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: Company-Wide Laptop Rollout
-        quote: "July 2021 - December 2021"
-        description: |
-          Took on a laptop rollout to support Timberlands' transition to remote work during challenges such as chip shortages and global pandemic-related delays. Managed all aspects of the rollout, including procurement, cybersecurity training, deployment, and helpdesk support. This project allowed me to execute complex IT initiatives under pressure, ensuring business continuity and enhancing remote work capabilities.
-      - layout: top-middle
-        title: Private-Cloud Deployment
-        quote: "May 2022 - August 2022"
-        description: |
-          Deployed and configured a full Proxmox VE-based infrastructure using clustered local hardware to host a private cloud. This strategic environment supported critical in-house applications, including Bitwarden, Bookstack Wiki, and various virtual machines. The project demonstrated my proficiency in virtualization technologies by delivering a resilient, scalable, and secure cluster.
-      - layout: top-middle
-        title: Cloud Platform Automations
-        quote: "June 2022 - June 2024"
-        description: |
-          Successfully developed and maintained an advanced automation framework using PowerShell, designed to synchronize user account operations between Microsoft 365, Google Workspace, and Apple School Manager. Integrated with school SMS platforms to streamline account creation, licensing, and group assignments. Improved operational efficiency and platform reliability across education clients.
-      - layout: top-middle
         title: VoIP Deployment
         quote: "September 2022 - April 2024"
         description: |
