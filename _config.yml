@@ -22,10 +22,9 @@ linkedin_username: felixsaville
 
 # About Section configuration
 about_content: |
-  Hello there! I'm Felix, a Systems Engineer at VisionLab with over 7 years of hands-on experience in IT infrastructure, automation, and cloud transitions.
-  My expertise includes <mark>PowerShell and RMM automation</mark>, <mark>Microsoft 365 and Azure deployments</mark>, <mark>Intune and Entra ID device management</mark>, <mark>backup and disaster recovery</mark>, and <mark>secure AI adoption</mark>. I specialize in streamlining IT operations across education, business, and corporate environments by developing scalable, efficient, and secure systems.
-  At VisionLab, I lead client projects ranging from tenant and email migrations and Linux server rebuilds to CyberCert security assessments, Veeam backup design, and rolling out Claude AI safely inside Microsoft 365 tenants. My scripting work enables consistency and control across complex environments.
-  Outside of work, I run my own game-server hosting platform built on Laravel, Docker, and self-hosted infrastructure, and I continuously explore new technologies to keep sharpening my skills.
+  Hello there! I'm Felix, a Systems Engineer at VisionLab with over 7 years of experience in IT infrastructure, automation, and cloud.
+  I specialise in <mark>Microsoft 365 and Azure</mark>, <mark>Intune and Entra ID</mark>, <mark>PowerShell and RMM automation</mark>, <mark>backup and disaster recovery</mark>, and <mark>secure AI adoption</mark>, supporting businesses, schools, and iwi across the Bay of Plenty.
+  Outside of work, I run my own game-server hosting platform on Laravel, Docker, and self-hosted infrastructure.
 
 # Main content configuration
 content:
@@ -39,7 +38,7 @@ content:
         caption: January 2026 - Present
         quote: "Secure, modern IT for Bay of Plenty businesses."
         description: |
-          Systems Engineer at a Te Puke-based managed service provider, supporting businesses across the Bay of Plenty in agriculture, engineering, healthcare, veterinary, and professional services. I specialise in Microsoft 365, Intune, Entra ID, and automation, working day to day with NinjaOne RMM, HaloPSA, IT Glue, and ScreenConnect. I lead client projects end to end: tenant and email migrations, Linux server rebuilds, Veeam backup and disaster recovery design, CyberCert security assessments, and NinjaOne automation. I also wrote VisionLab's internal framework for deploying Claude AI safely into client Microsoft 365 tenants, and I lead those rollouts.
+          Lead client projects for a Te Puke managed service provider, from tenant migrations and Linux server rebuilds to Veeam disaster recovery, CyberCert assessments, and NinjaOne automation. Wrote VisionLab's framework for deploying Claude AI securely into Microsoft 365 tenants, and lead those rollouts.
       - layout: left
         title: OmniNet Limited
         link: https://www.omninet.co.nz/
@@ -47,7 +46,7 @@ content:
         caption: July 2024 - December 2025
         quote: "Driving innovation and efficiency through cloud-first IT solutions."
         description: |
-          Responsible for designing, implementing, and supporting IT infrastructure solutions across client environments. This includes Azure AD migrations, Microsoft 365 deployments, Intune/Autopilot device management, and endpoint security configurations. Acted as a technical lead on projects involving cloud-first strategies, hybrid infrastructure transitions, and client onboarding, while providing escalation support and maintaining strong client relationships.
+          Technical lead on client projects covering Azure AD migrations, Microsoft 365 deployments, Intune and Autopilot device management, and endpoint security. Provided escalation support and managed client onboarding.
       - layout: left
         title: mb3 Limited
         link: https://www.mb3.nz/
@@ -55,7 +54,7 @@ content:
         caption: March 2022 - July 2024
         quote: "Enriching lives using Apple technology. Inspire, Innovate, Empower."
         description: |
-          I joined mb3 Limited as a Systems Engineer, specializing in the management and deployment of IT systems within Microsoft, Linux, and Apple ecosystems. My primary focus was to enhance IT system manageability and streamline device deployment for iwi, education, and business. My key responsibilities included the design and execution of IT projects, optimizing operations through automation, and overseeing helpdesk requests. In my role, I was committed to delivering high-quality support across various solutions, ensuring that our clients' IT ecosystems were both efficient and user-friendly.
+          Managed and deployed Microsoft, Linux, and Apple systems for iwi, schools, and businesses. Designed and delivered IT projects, built PowerShell automation to sync accounts across Microsoft 365, Google Workspace, and Apple School Manager, and handled escalated helpdesk requests.
       - layout: left
         title: Timberlands Limited
         link: https://tll.co.nz/
@@ -63,7 +62,7 @@ content:
         caption: October 2019 - March 2022
         quote: "We commit to being the best and safest production forest in the world, Mo ake tonu atu."
         description: |
-          Originally joined Timberlands as an IT Support Specialist, rapidly learning the organization's IT infrastructure, focusing on optimizing day-to-day operations. Key accomplishments include mastering the complex platform Citrix, private cloud structure, enhancing control and support for the IT team and staff, and providing exceptional support to users, both on-site and remotely, while maintaining efficiency and user satisfaction.
+          Supported staff on-site and remotely across Citrix and a private cloud environment. Led a company-wide laptop rollout through pandemic supply shortages to support the move to remote work.
       - layout: left
         title: Spark Rotorua
         link: https://www.spark.co.nz/
@@ -71,7 +70,7 @@ content:
         caption: November 2018 - March 2019
         quote: "The best hands-on experience is front-facing all types of customers, assisting NZ in the digital world."
         description: |
-          At Spark, a leader in telecommunications and digital services, provided support to customers as a Sales Consultant. Responsibilities/achievements included providing detailed consults on devices and digital services to many customers across NZ, finding effective and accurate solutions while providing excellent customer support, and greatly exceeding sales targets by selling 60 solutions within a single month.
+          Advised customers on devices and digital services, exceeding sales targets with 60 solutions sold in a single month.
 
   - title: Education
     layout: list
@@ -82,7 +81,7 @@ content:
         sub_title: Diploma in Systems Administration (Level 6)
         quote: "EmployNZ helped me learn a lot around System Deployment and Management, and I couldn’t have done IT without their Hands-On Teaching."
         description: |
-          During my time at EmployNZ, I learnt most of my key skills that I have taken through my career, such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at EmployNZ and learnt a lot about different Types of Operating Systems, platforms, and programming Languages.
+          Built my foundation in operating systems, networking, system deployment, and programming, along with teamwork and working to tight deadlines.
 
   - title: Projects
     layout: list
@@ -91,52 +90,52 @@ content:
         title: VoIP Deployment
         quote: "September 2022 - April 2024"
         description: |
-          Deployed and configured various VoIP platforms across educational and corporate clients in the Bay of Plenty region. Implemented solutions such as Webex, Microsoft Teams, and UCXpress through Access 4. Gained expertise in VoIP systems while enhancing client communication infrastructure and collaboration capabilities.
+          Deployed Webex, Microsoft Teams calling, and UCXpress (Access4) phone systems for schools and businesses across the Bay of Plenty.
       - layout: top-middle
         title: Cross-Tenant Microsoft 365 Migration
         quote: "August 2024 – September 2024"
         description: |
-          Constructed a Microsoft 365 tenant-to-tenant migration using AvePoint Fly. Consolidated user mailboxes and calendars, developed PowerShell automation to replicate permissions and calendar delegations, and coordinated DNS cutovers. Delivered a seamless migration experience with minimal downtime and configuration impact.
+          Merged two Microsoft 365 tenants with AvePoint Fly, using PowerShell to carry over mailbox permissions and calendar delegations. Coordinated the DNS cutover with minimal downtime.
       - layout: top-middle
         title: Autopilot Deployment Project
         quote: "May 2025 - June 2025"
         description: |
-          Designed and implemented a modern device deployment and management strategy using Microsoft Intune and Autopilot. This included a 35-device deployment, Win32 app packaging, Defender configuration, and conditional access policies. Delivered standardized deployment templates and automation for Start Menu layouts, Taskbar pinning, and Office provisioning across multiple clients.
+          Rolled out 35 devices with Intune and Autopilot, including Win32 app packaging, Defender, and conditional access. Built reusable deployment templates now used across multiple clients.
       - layout: top-middle
         title: Claude AI Deployment Framework
         quote: "2026"
         description: |
-          Wrote VisionLab's internal framework for advising clients on Claude and deploying it into Microsoft 365 tenants. It covers discovery questions, choosing a consumer or commercial plan based on data sensitivity and Privacy Act obligations, Microsoft 365 connector consent and permission scoping, SSO, and auto-provisioning groups. Led rollouts for several clients, including Microsoft 365 and Xero integrations and user training.
+          Wrote VisionLab's guide to choosing the right Claude plan for a client's data and Privacy Act obligations, and to connecting it to Microsoft 365 safely. Led client rollouts, including SSO, auto-provisioning, and Microsoft 365 and Xero integrations.
       - layout: top-middle
         title: Linux Application Server Rebuild
         quote: "2026"
         description: |
-          Audited a client's internet-facing CentOS 8 server running production, UAT, and development environments of a Rust and React web platform on an end-of-life PostgreSQL database. Found exposed database and service ports, root-level services, and no active firewall. Planned and documented a clean rebuild on Oracle Linux instead of a risky in-place upgrade, along with the database migration, cutover, and decommission.
+          Audited a client's internet-facing CentOS 8 web platform and found exposed database ports, root-level services, and no firewall. Planned a clean rebuild on Oracle Linux, including the database migration and cutover.
       - layout: top-middle
         title: Azure Backup & Disaster Recovery
         quote: "2026"
         description: |
-          Designed a two-layer backup strategy for an Azure-hosted client: Veeam Data Cloud for in-Azure recovery, plus Veeam Backup & Replication with a VisionLab-held repository as a portable copy. Used a Grandfather-Father-Son retention schedule (8-hourly snapshots, then daily, weekly, and monthly backups). Proved recovery with a full restore into VisionLab's Hyper-V infrastructure and wrote the disaster recovery plan.
+          Designed two-layer Veeam protection for an Azure-hosted client, with in-Azure recovery plus a portable copy held by VisionLab. Proved it with a full restore into Hyper-V and wrote the disaster recovery plan.
       - layout: top-middle
         title: Compliance Call Recording & Transcription
         quote: "2026"
         description: |
-          Designed a policy-enforced call recording solution for a multi-site engineering client. Built a local Node.js MCP server that connects Claude to the call analytics API so staff can query transcripts with speaker labels, and designed an automated pipeline that stores transcripts and audio in SharePoint. Also designed a permission model that lets each user see only the meetings they took part in, working within SharePoint's limit on unique permissions.
+          Designed policy-enforced call recording for a multi-site engineering firm, with transcripts stored automatically in SharePoint and access limited to each meeting's participants. Built a Node.js MCP server so staff can search their calls with Claude.
       - layout: top-middle
         title: CyberCert Security Assessments
         quote: "2026"
         description: |
-          Ran CyberCert assessments for small business clients against New Zealand's cyber security certification controls, covering RMM and EDR coverage, MFA, email authentication (SPF, DKIM, DMARC), backups, firewalling, and policy documentation. Turned the gaps into prioritised remediation tickets and proposals, and helped bring VisionLab's own environment up to the same standard.
+          Assessed small businesses against New Zealand's CyberCert controls, from MFA and EDR to email authentication and backups. Turned the gaps into prioritised remediation plans.
       - layout: top-middle
         title: Legacy Database Review & Modernisation
         quote: "2026"
         description: |
-          Reviewed an agricultural contractor's three interlinked Microsoft Access systems, which covered the full job lifecycle from orders to invoicing. Documented every table, form, report, and data-sync script, flagged the risk of data loss from manual syncing between machines, and scoped a replacement on Microsoft Power Apps and Dataverse.
+          Reviewed an agricultural contractor's three linked Microsoft Access systems, flagged a data-loss risk in how they synced, and scoped a replacement on Power Apps and Dataverse.
       - layout: top-middle
         title: Dracxi Hosting
         quote: "2025 - Present"
         description: |
-          Built and run a game-server hosting business for New Zealand and Australia. It's a Laravel and PostgreSQL platform with Stripe billing, deployed with Docker Compose on self-hosted infrastructure behind Cloudflare and a FortiGate firewall. It includes automated deployment, uptime monitoring with Uptime Kuma, and self-hosted error tracking with GlitchTip, all reporting to Discord.
+          Built and run a game-server hosting business for New Zealand and Australia on Laravel, PostgreSQL, and Stripe. Self-hosted with Docker behind Cloudflare and FortiGate, with automated deployments, uptime monitoring, and error tracking.
 
 # Footer configuration
 footer_show_references: true
@@ -154,4 +153,4 @@ plugins:
 
 seo:
   name: Felix Saville
-  description: "Felix Saville – Systems Engineer specializing in cloud infrastructure, automation, and device deployment."
+  description: "Felix Saville – Systems Engineer specialising in Microsoft 365, Azure, automation, and secure cloud infrastructure."
